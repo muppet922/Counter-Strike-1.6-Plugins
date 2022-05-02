@@ -1,0 +1,668 @@
+[en]
+SCAN_CLEAN = Clean!
+SCAN_INFECTED = Infected!
+SCAN_RESULTS = [BIOSCAN] Result: You're
+INFECTED_TXT = [BIOSCAN] %s is Infected!
+INFECTED_TXT2 = [BIOSCAN] The infection has spread!
+INFECTED_HUD = !!!WARNING!!!^n%s is Infected!
+INFECTED_HUD2 = !!!WARNING!!!^nThe infection has spread!
+MUTATION_HUD = You have mutated to a %s!
+WIN_TXT_ZOMBIES = Zombies win!
+WIN_TXT_SURVIVORS = Survivors win!
+MENU_TITLE1 = Equipments
+MENU_TITLE2 = Primary
+MENU_TITLE3 = Secondary
+MENU_TITLE4 = Select Zombie Class
+MENU_BACK = Back
+MENU_MORE = More
+MENU_EXIT = Exit
+MENU_NEWWEAPONS = New Weapons
+MENU_PREVSETUP = Previous Setup
+MENU_DONTSHOW = Don't show menu again
+MENU_REENABLED = Your equip menu has been re-enabled.
+MENU_ALENABLED = Your equip menu is already enabled.
+MENU_CMDENABLE = Type ^"/guns^" in chat to re-enable your equip menu.
+MENU_CHANGECLASS = You'll mutate into a %s next time you're infected.
+CMD_MAXZOMBIES = Max zombies reached.
+CMD_INFECTED = You have infected %s.
+CMD_TEAMCHANGE = You are not allowed to change team.
+CMD_GAMENOTSTARTED = Game has not started yet.
+SUICIDEPUNISH_TXT = You have been punished for committing suicide.
+WELCOME_TXT = This server is running Biohazard v#Version#. Type /help for more info.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+			Biohazard v#Version# by cheap_suit^n^n^n
+			Biohazard gameplay is a classic zombie outbreak scenario. Your goal is to^n^n
+			fight off the zombies and avoid getting infected. If you're unlucky and^n^n
+			become infected, your new goal is to infect/kill the remaining survivors.^n^n
+			^n^n^n
+			Chat Commands:^n^n
+			say /help to open this motd.^n^n
+			say /class to open the class menu.^n^n
+			say /guns to enable the equip menu.^n^n
+		</pre>
+	</body>
+</html>
+:
+
+[sv]
+SCAN_CLEAN = Ren!
+SCAN_INFECTED = Infekterad!
+SCAN_RESULTS = [BIOSCANNING] Result: Du 'a'r
+INFECTED_TXT = [BIOSCANNING] %s 'a'r Infekterad!
+INFECTED_TXT2 = [BIOSCANNING] Infektionen har spridits!
+INFECTED_HUD = !!!VARNING!!!^n%s 'a'r Infekterad!
+INFECTED_HUD2 = !!!VARNING!!!^n Infektionen Har Spridits!!
+MUTATION_HUD = Du har Muterat till en %s!
+WIN_TXT_ZOMBIES = Zombiesar vinner!
+WIN_TXT_SURVIVORS = 'o'verleverna vinner!
+MENU_TITLE1 = Utrustning
+MENU_TITLE2 = F'o'rstahands
+MENU_TITLE3 = Andrahands
+MENU_TITLE4 = V'a'lj Zombie klass
+MENU_BACK = Tillbaka
+MENU_MORE = Mer
+MENU_EXIT = St'a'ng
+MENU_NEWWEAPONS = Nya Vapen
+MENU_PREVSETUP = Tidigare Inst'a'llningar
+MENU_DONTSHOW = Visa inte Meny Igen
+MENU_REENABLED = Din utrustnings meny har blivit tillg'a'nglig ingen.
+MENU_ALENABLED = Din utrustnings meny 'a'r redan tillg'a'nglig.
+MENU_CMDENABLE = Skriv ^"/guns^" i chatten f'o'r att fa tillgang till din utrustnings meny igen.
+MENU_CHANGECLASS = Du kommer mutera till en %s n'a'sta gang du 'a'r infekterad.
+CMD_MAXZOMBIES = Max zombisar uppnatt.
+CMD_INFECTED = Du har Infekterat %s.
+CMD_TEAMCHANGE = Du far inte byta lag.
+CMD_GAMENOTSTARTED = Spelet har inte startat 'a'nnu.
+SUICIDEPUNISH_TXT = Du har blivit straffad f'o'r sj'a'lvmord.
+WELCOME_TXT = Den h'a'r servern anv'a'nder Biohazard v#Version#. skriv /help f'o'r mer info.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+           		pre
+            		{
+                		font-family:Verdana,Tahoma;
+               			color:#FFFFFF;
+            		}
+
+            		body
+            		{
+                		background:#000000;
+                		margin-left:8px;
+                		margin-top:0px;
+            		}
+        	</style>
+	</head>
+
+	<body scroll="no">
+        	<pre>
+            		<img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+            		Biohazard v#Version# av cheap_suit^n^n^n
+            		Biohazard  'a'r ett klassiskt zombie utbrott scenario. Ditt mal 'a'r att^n^n
+            		d'o'da  zombiesen och undvik att bli infekterad. om du har otur och^n^n
+           		blir infekterad,blir ditt nya mal att infektera/d'o'da de kvarstaende 'o'verlevarna.^n^n
+            		^n^n^n
+            		Chat kommandon:^n^n
+            		skriv /help f'o'r att 'o'ppna denna ruta.^n^n
+            		skriv /class f'o'r att 'o'ppna klass menyn.^n^n
+            		skriv /guns f'o'r att 'o'ppna utrustnings menyn.^n^n
+        	</pre>
+	</body>
+</html>
+:
+
+[es]
+SCAN_CLEAN = Limpio!
+SCAN_INFECTED = Infectado!
+SCAN_RESULTS = [BIOSCAN] Resultado: Estas
+INFECTED_TXT = [BIOSCAN] %s esta Infectado!
+INFECTED_TXT2 = [BIOSCAN] La infeccion se a propagado!
+INFECTED_HUD = !!!PELIGRO!!!^n%s esta Infectado!
+INFECTED_HUD2 = !!!PELIGRO!!!^nLa infeccion se a propagado!
+MUTATION_HUD = Fuiste convertido en un %s!
+WIN_TXT_ZOMBIES = Ganan los Zombies!
+WIN_TXT_SURVIVORS = Ganan los sobrevivientes!
+MENU_TITLE1 = Equipamento
+MENU_TITLE2 = Primaria
+MENU_TITLE3 = Secundaria
+MENU_TITLE4 = Selecciona tu clase de Zombie
+MENU_BACK = Atras
+MENU_MORE = Mas
+MENU_EXIT = Salir
+MENU_NEWWEAPONS = Arma Nueva
+MENU_PREVSETUP = Setup Previo
+MENU_DONTSHOW = No mastrar devuelta el menu
+MENU_REENABLED = Tu menu de equipamientos esta activado.
+MENU_ALENABLED = Tu menu de equipamientos ya esta activado.
+MENU_CMDENABLE = Tipea ^"/guns^" para reactivar el menu de equipamientos.
+MENU_CHANGECLASS = En la proxima infeccion te vas a convertir en un %s.
+CMD_MAXZOMBIES = Se alcanzo la mayor cantidad de Zombies.
+CMD_INFECTED = Has infectado a %s.
+CMD_TEAMCHANGE = No tenes permitido cambiarte de equipo.
+CMD_GAMENOTSTARTED = El juego no a empezado todavia.
+SUICIDEPUNISH_TXT = Has sido castigado por cometer un suicidio.
+WELCOME_TXT = Este servidor esta corriendo Biohazard v#Version#. Tipea /help para mayor informacion. 
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+           		pre
+            		{
+                		font-family:Verdana,Tahoma;
+               			color:#FFFFFF;
+            		}
+
+            		body
+            		{
+                		background:#000000;
+                		margin-left:8px;
+                		margin-top:0px;
+            		}
+        	</style>
+	</head>
+
+	<body scroll="no">
+        	<pre>
+            		<img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+			Biohazard v#Version# by cheap_suit^n^n^n
+			Biohazard es un MOD clasico de Zombies. Tu objetivo es^n^n
+			peliar contra los Zombies y tratar de no ser infectados. Pero si por mala suerte^n^n
+			te infectan, tu nuevo objetivo es tratar de infectar o matar a los demas sobrevivientes.^n^n
+			^n^n^n
+			Comandos:^n^n
+			Escribe /help para abrir esta Motdto open this motd.^n^n
+			Escribe /class para abrir un menu de clases de Zombie.^n^n
+			Escribe /guns para activar el menu de Equipamiento.^n^n 
+     		</pre>
+	</body>
+</html>
+:
+
+[ro]
+SCAN_CLEAN = Sanatos!
+SCAN_INFECTED = Infectat!
+SCAN_RESULTS = [BIOSCAN] Rezultat: Esti
+INFECTED_TXT = [BIOSCAN] %s este infectat!
+INFECTED_TXT2 = [BIOSCAN] Infectia s-a raspandit!
+INFECTED_HUD = !!!ATENTIE!!!^n%s este infectat!
+INFECTED_HUD2 = !!!ATENTIE!!!^nInfectia s-a raspandit!
+MUTATION_HUD = Te-ai transformat in %s!
+WIN_TXT_ZOMBIES = Zombii au castigat!
+WIN_TXT_SURVIVORS = Supravietuitorii au castigat!
+MENU_TITLE1 = Echipamente
+MENU_TITLE2 = Primar
+MENU_TITLE3 = Secundar
+MENU_TITLE4 = Selecteaza o clasa de Zombi
+MENU_BACK = Inapoi
+MENU_MORE = Mai mult
+MENU_EXIT = Iesire
+MENU_NEWWEAPONS = Arme Noi
+MENU_PREVSETUP = Setarile anterioare
+MENU_DONTSHOW = Nu arata meniul din nou
+MENU_REENABLED = Meniul de echipamente a fost re-activat.
+MENU_ALENABLED = Meniul de echipamente este deja activat.
+MENU_CMDENABLE = Tasteaza ^"/guns^" in chat pentru a re-activa meniul de echipamente.
+MENU_CHANGECLASS = Te vei transforma in %s data viitoare cand esti infectat.
+CMD_MAXZOMBIES = Numarul maxim de zombii atins.
+CMD_INFECTED = Ai infectat pe %s.
+CMD_TEAMCHANGE = Nu poti s-a schimbi echipa.
+CMD_GAMENOTSTARTED = Jocul nu a inceput inca.
+SUICIDEPUNISH_TXT = Ai fost pedepsit pentru ca te-ai sinucis.
+WELCOME_TXT = Acest server ruleaza Biohazard v#Version#. Tasteaza /help pentru mai multe informatii.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+			Biohazard v#Version# de cheap_suit^n^n^n
+			Modul Biohazard este un scenariu clasic de rabufnire a zombiilor. Tinta ta este sa^n^n
+			lupti cu zombii si sa eviti sa fii infectat. Daca nu esti norocos si^n^n
+			devii infectat, noua ta tinta este sa infectezi/omori supravietuitorii.^n^n
+			^n^n^n
+			Comenzi in Chat:^n^n
+			say /help pentru a deschide acest motd.^n^n
+			say /class pentru a deschide meniul cu clase.^n^n
+			say /guns pentru a activa meniul cu echipamente.^n^n
+		</pre>
+	</body>
+</html>
+:
+
+[lt]
+SCAN_CLEAN = Sveikas!
+SCAN_INFECTED = Infekuotas!
+SCAN_RESULTS = [BIOSKANAVIMAS] Rezultatas: Tu
+INFECTED_TXT = [BIOSKANAVIMAS] %s yra Infekuotas!
+INFECTED_TXT2 = [BIOSKANAVIMAS] Infekcija pasklido!
+INFECTED_HUD = !!!DEMESIO!!!^n%s yra Infekuotas!
+INFECTED_HUD2 = !!!DEMESIO!!!^nInfekcija pasklido!
+MUTATION_HUD = Tu mutavai i %s!
+WIN_TXT_ZOMBIES = Zombiai laimejo!
+WIN_TXT_SURVIVORS = Zmones laimejo!
+MENU_TITLE1 = Ginkluote
+MENU_TITLE2 = Pirmine
+MENU_TITLE3 = Antrine
+MENU_TITLE4 = Pasirinkite Zombio Klase
+MENU_BACK = Atgal
+MENU_MORE = Daugiau
+MENU_EXIT = Iseiti
+MENU_NEWWEAPONS = Nauji Ginklai
+MENU_PREVSETUP = Praeitas Apsipirkimas
+MENU_DONTSHOW = Daugiau neberodyti meniu
+MENU_REENABLED = Tavo ginkluotes meniu vel ijungtas.
+MENU_ALENABLED = Tavo ginkluotes meniu jau yra ijungtas.
+MENU_CMDENABLE = Rasyk ^"/guns^", kad vel ijungtum ginkluotes meniu.
+MENU_CHANGECLASS = Tu mutuosi i %s sekanti karta, kai busi infekuotas.
+CMD_MAXZOMBIES = Maksimalus zombiu skaicius pasiektas.
+CMD_INFECTED = Yu infekavai %s.
+CMD_TEAMCHANGE = Tau neleista pereiti i kita komanda.
+CMD_GAMENOTSTARTED = Zaidimas dar neprasidejo.
+SUICIDEPUNISH_TXT = Tu buvai nubaustas uz savizudybe.
+WELCOME_TXT = Sis serveris naudoja Biohazard v#Version#. Rasyk /help del platesnes info.
+HELP_MOTD :
+<html>
+        <head>
+                <style type="text/css">
+                        pre
+                        {
+                                font-family:Verdana,Tahoma;
+                                color:#FFFFFF;
+                        }
+                        body
+                        {
+                                background:#000000;
+                                margin-left:8px;
+                                margin-top:0px;
+                        }
+                </style>
+        </head>
+        <body scroll="no">
+                <pre>
+                        <img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+                        Biohazard v#Version# sukurta cheap_suit^n^n^n
+                        Biohazard sukuria klasikini zombiu puolimo scenariju. Tavo uzduotis yra^n^n
+                        kovoti su zombiais ir likti neinfekuotam. Jei tau nepasiseka ir^n^n
+                        tampi infekuotas, tavo naujas tikslas yra infekuoti/nuzudyti likusius zmones.^n^n
+                        ^n^n^n
+                        Tekstines komandos:^n^n
+                        say /help - atidaro si motd.^n^n
+                        say /class - atidaro klasiu meniu.^n^n
+                        say /guns - ijungia/isjungia ginklu meniu.^n^n
+                </pre>
+        </body>
+</html>
+:
+
+[lv]
+SCAN_CLEAN = Tirs!
+SCAN_INFECTED = Inficets!
+SCAN_RESULTS = [BIOSKENERS] Rezultats: TU!
+INFECTED_TXT = [BIOSKENERS] %s ir Inficets!
+INFECTED_TXT2 = [BIOSKENERS] Infekcija ir izplatita!
+INFECTED_HUD = !!!Bridinajums!!!^n%s ir Inficets!
+INFECTED_HUD2 = !!!Bridinajums!!!^nInfekcija ir izplatita!
+MUTATION_HUD = Tu esi ticis parveidots par %s!
+WIN_TXT_ZOMBIES = Zombiji uzvareja!
+WIN_TXT_SURVIVORS = Izdzivotaji uzvareja!
+MENU_TITLE1 = Aprikojums
+MENU_TITLE2 = Galvenais
+MENU_TITLE3 = Sekundarais
+MENU_TITLE4 = Izvelies Zombiju klasi
+MENU_BACK = Atpakal
+MENU_MORE = Vairak
+MENU_EXIT = Iziet
+MENU_NEWWEAPONS = Izveleties Jaunu ieroci
+MENU_PREVSETUP = Ieprieksejo Iestatisanu
+MENU_DONTSHOW = Neradit izvelni atkal
+MENU_REENABLED = Tava aprikojuma izvelne ir atkal iedota.
+MENU_ALENABLED = Tava aprikojuma izvelne ir jau iedota.
+MENU_CMDENABLE = Ievadi ^"/guns^" cata lai iedotu tev aprikojuma izvelni.
+MENU_CHANGECLASS = Jus parveidos par %s naksoreiz kad jus busiet inficets.
+CMD_MAXZOMBIES = Maksimums zombiji ir sasniegti.
+CMD_INFECTED = Tevi ir inficejis %s.
+CMD_TEAMCHANGE = Tev nav atlauts mainit komandu.
+CMD_GAMENOTSTARTED = Spele nav vel saksusies.
+SUICIDEPUNISH_TXT = Tu esi ticis sodits par nodarito pasnavibu.
+WELCOME_TXT = Saja serveri strada Biohazard v#Version#. Ievadi /help lai redzetu vairak informaciju.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+			Biohazard v#Version# by cheap_suit^n^n^n
+			Biohazard speles sistema ir klasisku zombiju uzliesmojuma scenarijs. Tavs uzdevums ir^n^n
+			cinities pret zombijiem un izvairities tikt inficetam. Ja neesi veiksmigs^n^n
+			klusi par inficetu tavs jaunais uzdevums ir inficet/nogalinat atlikusos izdzivotajus.^n^n
+			^n^n^n
+			Cata komandas ir:^n^n
+			saki /help lai atvertu motd.^n^n
+			saki /class lai atvertu klases izvelni.^n^n
+			saki /guns lai iedotu aprikojuma izvelni.^n^n
+		</pre>
+	</body>
+</html>
+:
+
+[fr]
+SCAN_CLEAN = Sain!
+SCAN_INFECTED = Infecte!
+SCAN_RESULTS = [BIOSCAN] Resultat: tu es
+INFECTED_TXT = [BIOSCAN] %s es infecte!
+INFECTED_TXT2 = [BIOSCAN] L'infection s'est propagee!
+INFECTED_HUD = !!!ATTENTION!!!^n%s est infecte!
+INFECTED_HUD2 = !!!ATTENTION!!!^nL'infection s'est propagee!
+MUTATION_HUD = Tu t es mute en %s!
+WIN_TXT_ZOMBIES = Les Zombies gagnent!
+WIN_TXT_SURVIVORS = Les Survivors gagnent!
+MENU_TITLE1 = Equipements
+MENU_TITLE2 = Primaire
+MENU_TITLE3 = Secondaire
+MENU_TITLE4 = Choisis ta classe de zombie
+MENU_BACK = Retour
+MENU_MORE = Plus
+MENU_EXIT = Exit
+MENU_NEWWEAPONS = Nouvelles armes
+MENU_PREVSETUP = Configuration precedente
+MENU_DONTSHOW = N'affiche plus le menu
+MENU_REENABLED = Ton menu equipement est de nouveau actif
+MENU_ALENABLED = Ton menu equipement est deja actif.
+MENU_CMDENABLE = Tapes ^"/guns^" pour reactiver ton menu equipement.
+MENU_CHANGECLASS = Tu sera transforme en %s la prochaine infection.
+CMD_MAXZOMBIES = Le nombre max de zombie est atteint.
+CMD_INFECTED = Tu as infecte %s.
+CMD_TEAMCHANGE = Tu n'es pas autorise a changer d'equipe.
+CMD_GAMENOTSTARTED = Le jeu n'a pas encore demarre.
+SUICIDEPUNISH_TXT = Tu es puni pour t'etre suicide.
+WELCOME_TXT = Ce serveur execute Biohazard v#Version#. Tapes /help pour plus d'info.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+			Biohazard v#Version# by cheap_suit^n^n^n
+			Le gameplay de Biohazard est le scenario classic d'epidemie de zombie. Ton but est de^n^n
+			combattre les zombies en evitant d'etre infecte. Si tu es malchanceux et que^n^n
+			tu es infecte, ton but sera alors d'infecter/tuer les survivors restants.^n^n
+			^n^n^n
+			Commandes Chat:^n^n
+			Tapes /help pour afficher ce message.^n^n
+			Tapes /class pour afficher le menu de classes.^n^n
+			Tapes /guns pour activer le menu armes.^n^n
+		</pre>
+	</body>
+</html>
+:
+
+[bg]
+SCAN_CLEAN = 4ist!
+SCAN_INFECTED = Zarazen!
+SCAN_RESULTS = [BIOSCAN] Rezultat: Vie ste
+INFECTED_TXT = [BIOSCAN] %s e zarazen!
+INFECTED_TXT2 = [BIOSCAN] Infekciqta se e razprostranila!
+INFECTED_HUD = !!!VNIMANIE!!!^n%s e zarazen!
+INFECTED_HUD2 = !!!VNIMANIE!!!^nInfekciqta se e razprostranila!
+MUTATION_HUD = Vie ste se mutirali na %s!
+WIN_TXT_ZOMBIES = Zombitata pobediha!
+WIN_TXT_SURVIVORS = Horata pobediha!
+MENU_TITLE1 = Syoryjeniq
+MENU_TITLE2 = Pyrvi4na
+MENU_TITLE3 = Sredno
+MENU_TITLE4 = Izberete Zombi Klas
+MENU_BACK = Nazad
+MENU_MORE = Oshte
+MENU_EXIT = Izhod
+MENU_NEWWEAPONS = Novi orajiq
+MENU_PREVSETUP = Predishni orajiq
+MENU_DONTSHOW = Ne pokazvai menu-to pove4e.
+MENU_REENABLED = Vasheto menu za orajiq e aktivirano otnovo
+MENU_ALENABLED = Vasheto menu za orajiq e akrivirano
+MENU_CMDENABLE = Napishi ^"/guns^" v chat-a za vkliu4vane na menuto.
+MENU_CHANGECLASS = Vie Shte se mutirate v %s sledvashtiq pat kogato ste zarazen.
+CMD_MAXZOMBIES = Maksimalniq broi zombita e dostignat
+CMD_INFECTED = Ti zarazi %s.
+CMD_TEAMCHANGE = Ne vi e pozvoleno da smenqte otbora.
+CMD_GAMENOTSTARTED = Igrata ne e zapo4nala.
+SUICIDEPUNISH_TXT = Vie ste bil nakazan za izvyrshvane na samoubiistvo.
+WELCOME_TXT = Tozi server izpolzva Biohazard v#Version#. Napishete /help za pove4e informaciq.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+			Biohazard v#Version# by cheap_suit^n^n^n
+			Biohazard geimpleqt e klasi4eski scenarii za zombita. Vashata zada4a e da^n^n
+			ubivate zombitata i da se pazite ot tqhnata infekciq. Ako ^n^n
+			vi zarazqt, vie shte trqbva da zarazite/ubiete ostanalite hora.^n^n
+			^n^n^n
+			Chat Komandi:^n^n
+			Napishi /help za da otvorite motd.^n^n
+			Napishi /class za da otvorite klas menu-to.^n^n
+			Napishi /guns za da aktivirate menu-to za orajiq.^n^n
+		</pre>
+	</body>
+</html>
+:
+
+[de]
+SCAN_CLEAN = Steriel!
+SCAN_INFECTED = Infiziert!
+SCAN_RESULTS = [BIOSCAN] Ergebnis: Du bist
+INFECTED_TXT = [BIOSCAN] %s ist infiziert!
+INFECTED_TXT2 = [BIOSCAN] Der Virus wurde Freigelassen!
+INFECTED_HUD = !!!WARNUNG!!!^n%s ist infiziert!
+INFECTED_HUD2 = !!!WARNUNG!!!^nDer Virus wurde Freigelassen!
+MUTATION_HUD = Du mutiertest zu einem %s!
+WIN_TXT_ZOMBIES = Zombies haben Gewonnen!
+WIN_TXT_SURVIVORS = Ueberlebenden haben Gewonnen!
+MENU_TITLE1 = Ausruestung
+MENU_TITLE2 = Primaere Waffen
+MENU_TITLE3 = Sekundaere Waffen
+MENU_TITLE4 = Waehle eine Zombie-Klasse
+MENU_BACK = Zurueck
+MENU_MORE = Mehr
+MENU_EXIT = Beenden
+MENU_NEWWEAPONS = Neue Waffen
+MENU_PREVSETUP = Forheriges Menu
+MENU_DONTSHOW = Dieses Menu nicht noch einmal zeigen
+MENU_REENABLED = Dein Ausruestungs Menu wurde wieder aktiviert.
+MENU_ALENABLED = Dein Ausruestungs Menu ist bereits aktiviert.
+MENU_CMDENABLE = Schreibe ^"/guns^" in den Chat um das Ausruestungs Menu wieder zu aktivieren.
+MENU_CHANGECLASS = Du wirst zu einem %s mutieren das naechste Mal wenn du infiziert wirst.
+CMD_MAXZOMBIES = Maximale Anzahl an Zombies erreicht.
+CMD_INFECTED = Du hast %s infiziert.
+CMD_TEAMCHANGE = Du kannst das Team nicht waechseln.
+CMD_GAMENOTSTARTED = Das spielt ist derzeit noch nicht gestartet.
+SUICIDEPUNISH_TXT = Du wurdest bestraft da du Selbstmord begangen hast.
+WELCOME_TXT = Dieser Server lauft mit dem Biohazard Mod v#Version#. Schreibe /help fuer mehr Informationen.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+			Biohazard v#Version# von cheap_suit^n^n^n
+			Biohazard ist ein klassisches Zombie Scenario. Dein Ziel ist es^n^n
+			gegen die Zombies zu kaempfen, sie zu besiegen und moeglichst nicht infiziert zu werden.
+			Wenn du doch infiziert wirst,^n^n
+			ist dein neues Ziel die Ueberlebenden zu infizieren/toeten.^n^n
+			^n^n^n
+			Chat Befehle:^n^n
+			say /help Um dieses Motd Fenster zu oeffnen.^n^n
+			say /class Um das Klassen-Menu zu oeffnen.^n^n
+			say /guns um das Ausruestungsmenu zu aktivieren.^n^n
+		</pre>
+	</body>
+</html>
+:
+
+[nl]
+SCAN_CLEAN = Schoon!
+SCAN_INFECTED = Besmet!
+SCAN_RESULTS = [BIOSCAN] Resultaat: Je bent
+INFECTED_TXT = [BIOSCAN] %s is besmet!
+INFECTED_TXT2 = [BIOSCAN] De besmetting heeft zich verspreid!
+INFECTED_HUD = !!!OPGEPAST!!!^n%s is besmet!
+INFECTED_HUD2 = !!!OPGEPAST!!!^nDe besmetting heeft zich verspreid!
+MUTATION_HUD = Je bent gemuteerd in een %s!
+WIN_TXT_ZOMBIES = Zombies winnen!
+WIN_TXT_SURVIVORS = Overlevende winnen!
+MENU_TITLE1 = Uitrusting
+MENU_TITLE2 = Primaire
+MENU_TITLE3 = Secundaire
+MENU_TITLE4 = Selecteer Zombie klasse
+MENU_BACK = Terug
+MENU_MORE = Meer
+MENU_EXIT = Sluit
+MENU_NEWWEAPONS = Nieuwe wapens
+MENU_PREVSETUP = Vorige Setup
+MENU_DONTSHOW = Weergeef het menu niet meer
+MENU_REENABLED = Je uitrusting menu is opnieuw inschakelen.
+MENU_ALENABLED = Je uitrusting menu is al ingeschakeld.
+MENU_CMDENABLE = Type ^"/guns^" in chat de chat om het uitrusting menu aan te doen.
+MENU_CHANGECLASS = Je muteert in een %s volgende keer dat je geïnfecteerd bent.
+CMD_MAXZOMBIES = Max zombies bereikt.
+CMD_INFECTED = Je hebt %s besmet.
+CMD_TEAMCHANGE = Je bent niet toegestaan om van team te veranderen.
+CMD_GAMENOTSTARTED = Het spel is nog niet begonnen.
+SUICIDEPUNISH_TXT = Je bent gestraft voor het plegen van zelfmoord.
+WELCOME_TXT = Deze server draait Biohazard v#Version#. Type /help voor meer info.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+			Biohazard v#Version# door cheap_suit^n^n^n
+			Biohazard gameplay is een klassieke zombie uitbraak scenario. Je doel is om^n^n
+			bestrijding van de zombies en om te voorkomen dat je besmet raakt. Als je de pech hebt en^n^n
+			besmet raakt, is je nieuwe doel het infecteren / vermoorden van de resterende overlevenden.^n^n
+			^n^n^n
+			Chat Commando's:^n^n
+			zeg /help om deze motd te openen.^n^n
+			zeg /class om het zombie klasse menu te openen.^n^n
+			zeg /guns om het uitrusting menu aan te doen.^n^n
+		</pre>
+	</body>
+</html>
+:
