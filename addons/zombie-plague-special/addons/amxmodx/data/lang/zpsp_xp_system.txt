@@ -1,0 +1,154 @@
+[en]
+ZP_XP_PREFIX = ^4[ZPSp XP]^1
+ZP_XP_NOACESS = You dont have access.
+ZP_XP_ADM_RESET = ^4*ADMIN*^1 %s^3: reset rank data of ^1[%s]
+ZP_XP_ADM_SET_LVL = ^4*ADMIN*^1 %s^3: set ^1[%s]^3 to level ^1[%d]^3 (^1Rank: %s^3)
+ZP_XP_ADM_GIVE_XP = ^4*ADMIN*^1 %s^3: gave ^1[%d XP(s)]^3 for ^3[%s]^1
+ZP_XP_REACHED = You have reached: XP ^3[%d / %d]^1.
+ZP_RANK_REACHED = You have reached: Rank: ^3[%s]^1 Level: ^3[%d]^1.
+ZP_XP_PROMOTED = Player ^3[%s]^1 have been promoted to level ^3%d^1 (^3Rank: %s^1)
+ZP_XP = XP(s)
+ZP_LEVEL = Level
+ZP_RANK = Rank
+
+ZP_XP_CMD_ERROR1 = Usage: amx_givexp <player name> <quantity>
+ZP_XP_CMD_ERROR2 = Invalid player or matching multiple targets!
+ZP_XP_CMD_ERROR3 = Usage: amx_setlvl <player Name> <quantity>
+
+ZP_XP_ADM_GIVE_XP_LOG = *ADMIN* %s <%s>: gave [%d XP(s)] for [%s] <%s>
+ZP_XP_ADM_SET_LVL_LOG = *ADMIN* %s <%s>: set [%s] <%s> to level [%d] (Rank: %s)
+ZP_XP_ADM_RESET_LOG = *ADMIN* %s <%s>: reset rank data of [%s] <%s>
+
+ZP_XP_MENU_PREFIX = \y[ZPSp XP]\w
+ZP_XP_MAIN_MENU = Main Menu
+ZP_XP_MENU_RESET = Reset Data
+ZP_XP_MENU_MANAGE = Manage Players
+ZP_XP_MENU_LIST = XP List
+MENU_ITEM_UPGRADES = Upgrades
+ZP_MENU_NOTE = Note
+
+ZP_UPGRADE_MAX = MAX
+ZP_UPGRADE_MIN = MIN
+
+ZP_XP_MENU_BACK = Back
+ZP_XP_MENU_NEXT = Next
+ZP_XP_MENU_EXIT = Exit
+
+ZP_XP_NO_UPGRADES = Upgrades are disabled.
+ZP_XP_MENU_UPGRADES = Upgrades Menu
+ZP_ITEM_UPGRADE_BUY = Buy Upgrade
+ZP_ITEM_UPGRADE_SELL = Sell Upgrade
+ZP_UPGRADE_ITEM_NAME = Item: \r[%s\r]
+ZP_UPGRADE_ITEM_LEVEL = Level: \r[%d/%d]
+ZP_UPGRADE_ITEM_DESC = Description: \w%s
+ZP_XP_UPGRADE_MAX_BUY = Max bought upgrades
+ZP_NOT_HAVE_ENGOUT_XP = You dont have engout XP(s)
+ZP_UPGRADE_BUY_SUCCESS = You bought ^3[%s]^1 level ^3[%d]^1 with sucess.
+ZP_XP_UPGRADE_MAX_SELL = Min level reached. You cant sell
+ZP_UPGRADE_SELL_SUCCESS = You sold ^3[%s]^1 level ^3[%d]^1 with sucess.
+
+[bp]
+ZP_XP_PREFIX = ^4[ZPSp XP]^1
+ZP_XP_NOACESS = Voce não tem acesso !!!
+ZP_XP_ADM_RESET = ^4*ADMIN*^1 %s^3: resetou o xp do jogador ^1[%s]
+ZP_XP_ADM_SET_LVL = ^4*ADMIN*^1 %s^3: Mudou o level do jogador ^1[%s]^3 para o level ^1[%d]^3 (^1Rank: %s^3)
+ZP_XP_ADM_GIVE_XP = ^4*ADMIN*^1 %s^3: Adicionou ^1[%d XP(s)]^3 para o jogador ^3[%s]^1
+ZP_XP_REACHED = Voce chegou ao XP ^3[%d / %d]^1.
+ZP_RANK_REACHED = Voce chegou ao Rank: ^3[%s]^1 e ao Level: ^3[%d]^1.
+ZP_XP_PROMOTED = Jogador ^3[%s]^1 chegou ao nivel ^3%d^1 (^3Rank: %s^1)
+ZP_XP = XP(s)
+ZP_LEVEL = Level
+ZP_RANK = Rank
+
+ZP_XP_CMD_ERROR1 = Uso: amx_givexp <nome> <quantidade>
+ZP_XP_CMD_ERROR2 = Jogador invalido ou multiplos alvos
+ZP_XP_CMD_ERROR3 = Uso: amx_setlvl <nome> <quantidade>
+
+ZP_XP_ADM_GIVE_XP_LOG = *ADMIN* %s <%s>: adicionou [%d XP(s)] para o jogador [%s] <%s>
+ZP_XP_ADM_SET_LVL_LOG = *ADMIN* %s <%s>: mudou o level do jogador [%s] <%s> para o level [%d] (Rank: %s)
+ZP_XP_ADM_RESET_LOG = *ADMIN* %s <%s>: resetou o xp do jogador [%s] <%s>
+
+ZP_XP_MENU_PREFIX = \y[ZPSp XP]\w
+ZP_XP_MENU_RESET = Resetar dados
+ZP_XP_MENU_MANAGE = Gerenciar niveis
+ZP_XP_MENU_LIST = Lista de Jogadores
+
+ZP_XP_MAIN_MENU = Menu Principal
+MENU_ITEM_UPGRADES = Upgrades
+MENU_ITEM_RANK_LIST = Lista de Ranks
+MENU_ITEM_MANAGE_DATA = Gerenciar XP dos jogadores
+MENU_ITEM_RESET_PL_DATA = Resetar Dados dos jogadores
+ZP_MENU_NOTE = OBS
+
+ZP_UPGRADE_MAX = Maximo
+ZP_UPGRADE_MIN = Minimo
+
+ZP_XP_MENU_BACK = Voltar
+ZP_XP_MENU_NEXT = Proximo
+ZP_XP_MENU_EXIT = Sair
+
+ZP_XP_NO_UPGRADES = O Upgrades esta desligado.
+ZP_XP_MENU_UPGRADES = Menu de Upgrades
+ZP_ITEM_UPGRADE_BUY = Comprar
+ZP_ITEM_UPGRADE_SELL = Vender
+ZP_UPGRADE_ITEM_NAME = Item: \r[%s\r]
+ZP_UPGRADE_ITEM_LEVEL = Level: \r[%d/%d]
+ZP_UPGRADE_ITEM_DESC = Descrição: \w%s
+ZP_XP_UPGRADE_MAX_BUY = Maximo de Upgrades Comprados
+ZP_NOT_HAVE_ENGOUT_XP = Voce nao tem XP Suficiente
+ZP_UPGRADE_BUY_SUCCESS = Voce Upou sua ^3[%s]^1 ao nivel ^3[%d]^1 com sucesso.
+ZP_XP_UPGRADE_MAX_SELL = Valor minimo do upgrade alcancado
+ZP_UPGRADE_SELL_SUCCESS = Voce Vendeu sua ^3[%s]^1 de nivel ^3[%d]^1 com sucesso.
+
+[es]
+ZP_XP_PREFIX = ^4[ZPSp XP]^1
+ZP_XP_NOACESS = No tienes acesso !!!
+ZP_XP_ADM_RESET = ^4*ADMIN*^1 %s^3: reiniciaste el exp del jugador ^1[%s]
+ZP_XP_ADM_SET_LVL = ^4*ADMIN*^1 %s^3: Mudaste lo nível del jugador ^1[%s]^3 para el nível ^1[%d]^3 (^1Rango: %s^3)
+ZP_XP_ADM_GIVE_XP = ^4*ADMIN*^1 %s^3: Adicionaste ^1[%d EXP(s)]^3 para el jugador ^3[%s]^1
+ZP_XP_REACHED = Chegaste lo EXP(s) ^3[%d / %d]^1.
+ZP_RANK_REACHED = Chegaste el Rango: ^3[%s]^1 y el Nível: ^3[%d]^1.
+ZP_XP_PROMOTED = Jugador ^3[%s]^1 chegaste el nível ^3%d^1 (^3Rango: %s^1)
+ZP_XP = EXP(s)
+ZP_LEVEL = Nível
+ZP_RANK = Rango
+
+ZP_XP_CMD_ERROR1 = Uso: amx_givexp <nombre> <quantidad>
+ZP_XP_CMD_ERROR2 = Jugador invalido ou multiplos alvos
+ZP_XP_CMD_ERROR3 = Uso: amx_setlvl <nombre> <quantidad>
+
+ZP_XP_ADM_GIVE_XP_LOG = *ADMIN* %s <%s>: Adicionaste [%d EXP(s)] para el jugador [%s] <%s>
+ZP_XP_ADM_SET_LVL_LOG = *ADMIN* %s <%s>: Mudaste el nivel del jugador [%s] <%s> para lo nivel [%d] (Rango: %s)
+ZP_XP_ADM_RESET_LOG = *ADMIN* %s <%s>: reiniciaste el exp del jugador [%s] <%s>
+
+ZP_XP_MENU_PREFIX = \y[ZPSp XP]\w
+ZP_XP_MENU_RESET = Reiniciar datos
+ZP_XP_MENU_MANAGE = Gerenciar niveis
+ZP_XP_MENU_LIST = Lista del Jugadores
+
+ZP_XP_MAIN_MENU = Menu Principal
+MENU_ITEM_UPGRADES = Habilidad
+MENU_ITEM_RANK_LIST = Lista del rango
+MENU_ITEM_MANAGE_DATA = Gerenciar EXP del jugadores
+MENU_ITEM_RESET_PL_DATA = Reinicar Datos del jugadores
+ZP_MENU_NOTE = Atencion
+
+ZP_UPGRADE_MAX = Maximo
+ZP_UPGRADE_MIN = Minimo
+
+ZP_XP_MENU_BACK = Anterior
+ZP_XP_MENU_NEXT = Proximo
+ZP_XP_MENU_EXIT = Salir
+
+ZP_XP_NO_UPGRADES = Las Habilidades estas desligado.
+ZP_XP_MENU_UPGRADES = Menu de las habilidades
+ZP_ITEM_UPGRADE_BUY = Compra
+ZP_ITEM_UPGRADE_SELL = Vender
+ZP_UPGRADE_ITEM_NAME = Item: \r[%s\r]
+ZP_UPGRADE_ITEM_LEVEL = Nivel: \r[%d/%d]
+ZP_UPGRADE_ITEM_DESC = Descripción: \w%s
+ZP_XP_UPGRADE_MAX_BUY = Maximo del habilidades Compradas
+ZP_NOT_HAVE_ENGOUT_XP = No tienes EXP Suficiente
+ZP_UPGRADE_BUY_SUCCESS = Tu aumentaste su habilidad ^3[%s]^1 lo nivel ^3[%d]^1.
+ZP_XP_UPGRADE_MAX_SELL = Valor minimo de la habilidad alcancado
+ZP_UPGRADE_SELL_SUCCESS = Vendeste su habilidad ^3[%s]^1 de lo nivel ^3[%d]^1 com sucesso.
