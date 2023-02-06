@@ -1,0 +1,1 @@
+>> This category contains administrative plugins, greeting plugins, that customize the game, etc. and are not specific for a gamemode.

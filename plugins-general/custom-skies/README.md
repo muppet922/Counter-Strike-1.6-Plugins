@@ -1,0 +1,1 @@
+>> Custom-Skies is an amxmodx plugins that allows you to change the sky in-game.
