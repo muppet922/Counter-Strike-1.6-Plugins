@@ -1,0 +1,1 @@
+This amxmodx plugin saves ammopacks via SQL
