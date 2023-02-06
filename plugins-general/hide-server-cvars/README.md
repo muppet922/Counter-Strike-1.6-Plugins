@@ -1,0 +1,1 @@
+This amxmodx plugin hides server cvars from HLSW, GT

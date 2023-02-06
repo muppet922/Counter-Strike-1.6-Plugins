@@ -1,0 +1,1 @@
+This amxmodx plugin revives dead players with the help of others.

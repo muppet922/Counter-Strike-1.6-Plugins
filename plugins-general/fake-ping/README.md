@@ -1,0 +1,1 @@
+This amxmodx plugin sets fake ping for players/bots

@@ -1,0 +1,1 @@
+This amxmodx plugins changes `Counter-Strike 1.6` name to whatever you want in serverlist.

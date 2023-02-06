@@ -1,0 +1,1 @@
+This amxmodx plugins detects bhop hacks.

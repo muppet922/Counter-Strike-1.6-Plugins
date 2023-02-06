@@ -1,0 +1,1 @@
+This amxmodx plugin don't let people use retry only after X time.
