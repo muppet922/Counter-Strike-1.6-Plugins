@@ -1,0 +1,1 @@
+Floating weapons is an amxmodx plugin wich will make dropped weapons to float in pure air.

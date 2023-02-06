@@ -1,0 +1,13 @@
+[ru]
+UL_LEADER_OUTDONE_HIMSELF	= ^3[Ultimate] ^1Текущий лидер^4 %n ^1превзошел свои показатели. Количество убийств:^4 %d ^1| Количество урона:^4 %d
+UL_NEW_LEADER				= ^3[Ultimate] ^4%n ^1становится новым лидером. Количество убийств:^4 %d ^1| Количество урона:^4 %d
+UL_NO_LEADER				= ^3[Ultimate] ^4Лидер ^1будет определен в текущем раунде
+UL_NOBODY_SUPPARSED_LEADER	= ^3[Ultimate] ^1В этом раунде никто не превзошел лидера^4 %n
+UL_CVAR_MODE_DESCRIPTION	= Режим подсчета лидера раунда^n0 - пока игрок не превзойдет текущего лидера по количеству убийств^n1 - пока игрок не превзойдет текущего лидера по урону
+
+[en]
+UL_LEADER_OUTDONE_HIMSELF = ^3[Ultimate] ^1The current leader^4 %n ^1 surpassed his numbers. Number of kills:^4 %d ^1| Amount of damage:^4 %d
+UL_NEW_LEADER = ^3[Ultimate] ^4%n ^1 becomes the new leader. Number of kills:^4 %d ^1| Amount of damage:^4 %d
+UL_NO_LEADER = ^3[Ultimate] ^4 Leader ^1 will be determined in the current round
+UL_NOBODY_SUPPARSED_LEADER = ^3[Ultimate] ^1No one has surpassed the leader in this round^4 %n
+UL_CVAR_MODE_DESCRIPTION = Round Leader Counting Mode^n0 - until the player surpasses the current leader in number of kills^n1 - until the player surpasses the current leader in damage

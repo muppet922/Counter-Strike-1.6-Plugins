@@ -1,0 +1,1 @@
+This amxmodx plugin adds random sounds when players make kill-streaks, headshots etc.

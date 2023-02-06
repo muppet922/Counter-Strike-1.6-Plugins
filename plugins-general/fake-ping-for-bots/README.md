@@ -1,0 +1,1 @@
+This amxmodx plugin sets a false ping for bots. 
