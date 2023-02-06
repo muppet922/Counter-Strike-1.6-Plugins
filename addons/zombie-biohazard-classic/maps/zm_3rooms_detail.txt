@@ -1,0 +1,12 @@
+// Detail texture map file for de_aztec_warfare level
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+CstlCncr		detail/dt_metal1 		5.0		5.0
+-0AzWll			detail/dt_stone1		3.0		3.0
+-1AzWll			detail/dt_stone1		3.0		3.0
+CastFlt			detail/dt_stone1		5.0		5.0
+-0Sand			detail/dt_ground1		10.0		10.0
+-1Sand			detail/dt_ground1		10.0		10.0
+-2Sand			detail/dt_ground1		10.0		10.0
+-3Sand			detail/dt_ground1		10.0		10.0
+

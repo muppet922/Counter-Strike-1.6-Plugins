@@ -1,0 +1,161 @@
+[en]
+NOTICE_SNIPER = %s is a Sniper !!!
+NOTICE_ASSASSIN = %s is an Assassin !!!
+NOTICE_SURVIVORNEMESIS = Armageddon Mode !!!
+NOTICE_SURVIVORASSASSIN = Survivors vs Assassins Mode !!!
+NOTICE_SNIPERNEMESIS = Apocalypse Mode !!!
+NOTICE_SNIPERASSASSIN = Hunter and Hunted Mode !!!
+NOTICE_SURVSNIPNEMASS = Nightmare Mode !!!
+
+CMD_SNIPER = turned into a Sniper
+CMD_ASSASSIN = turned into an Assassin
+CMD_SURVIVORNEMESIS = start Armageddon Mode
+CMD_SURVIVORASSASSIN = start Survivors vs Assassins Mode
+CMD_SNIPERNEMESIS = start Apocalypse Mode
+CMD_SNIPERASSASSIN = start Hunter and Hunted Mode
+CMD_SURVSNIPNEMASS = start Nightmare Mode
+CMD_NOT_HCLASSES = Human Classes are disabled.
+CMD_NOT_DROP = This weapon cannot be dropped
+
+MENU_CLASSES = Choose Classes
+MENU_HCLASS = Choose Human Class
+
+MENU_HCLASS_TITLE = Human Class
+
+MENU_ADMIN8 = Make Sniper
+MENU_ADMIN9 = Make Assassin
+
+MENU_CUSTOM1 = Custom menu name 1
+MENU_CUSTOM2 = Custom menu name 2
+
+CLASS_SNIPER = Sniper
+CLASS_ASSASSIN = Assassin
+
+MOTD_INFO1_M = <br>Human Classes: %L
+MOTD_INFO5_A = <br><br>Assassin: %L
+MOTD_INFO5_B = <br>Assassin Chance: 1 in %d
+MOTD_INFO5_C = <br>Assassin Health: %s
+MOTD_INFO5_D = <br>Assassin Speed: %d
+MOTD_INFO5_E = <br>Assassin Gravity: %d
+MOTD_INFO5_F = <br>Assassin Leap: %L
+MOTD_INFO5_G = <br>Assassin Pain Shock Free: %L
+MOTD_INFO5_H = <br><br>Sniper: %L
+MOTD_INFO5_I = <br>Sniper Chance: 1 in %d
+MOTD_INFO5_J = <br>Sniper Health: %s
+MOTD_INFO5_K = <br>Sniper Speed: %d
+MOTD_INFO5_L = <br>Sniper Gravity: %d
+MOTD_INFO5_M = <br>Sniper Leap: %L
+MOTD_INFO5_N = <br>Sniper Pain Shock Free: %L
+MOTD_INFO5_O = <br>Damage Caused by a Sniper's AWP bullet: %d
+
+ZOMBIE_ATTRIB5 = Armor
+
+HUMAN_SELECT = Your human class after the next spawn or disinfection will be
+
+[ro]
+NOTICE_SNIPER = %s este un Lunetist !!!
+NOTICE_ASSASSIN = %s este un Asasin !!!
+NOTICE_SURVIVORNEMESIS = Mod Armagedon !!!
+NOTICE_SURVIVORASSASSIN = Mod Supravietuitori vs Asasini !!!
+NOTICE_SNIPERNEMESIS = Mod Apocalipsa !!!
+NOTICE_SNIPERASSASSIN = Mod Vanator si Vanat !!!
+NOTICE_SURVSNIPNEMASS = Mod Cosmar !!!
+
+CMD_SNIPER = transformat intr'un Lunetist
+CMD_ASSASSIN = transformat intr'un Asasin
+CMD_SURVIVORNEMESIS = incepe Mod Armagedon
+CMD_SURVIVORASSASSIN = incepe Mod Supravietuitori vs Asasini
+CMD_SNIPERNEMESIS = incepe Mod Apocalipsa
+CMD_SNIPERASSASSIN = incepe Mod Vanator si Vanat
+CMD_SURVSNIPNEMASS = incepe Mod Cosmar
+CMD_NOT_HCLASSES = Clasele de Oameni sunt dezactivate.
+CMD_NOT_DROP = Aceasta arma nu poate fi aruncata
+
+MENU_CLASSES = Alege Clasele
+MENU_HCLASS = Alege Clasa de Om
+
+MENU_HCLASS_TITLE = Clasa de Om
+
+MENU_ADMIN8 = Transforma in Lunetist
+MENU_ADMIN9 = Transforma in Asasin
+
+MENU_CUSTOM1 = Nume meniu personalizat 1
+MENU_CUSTOM2 = Nume meniu personalizat 2
+
+CLASS_SNIPER = Lunetist
+CLASS_ASSASSIN = Asasin
+
+MOTD_INFO1_M = <br>Clase de Oameni: %L
+MOTD_INFO5_A = <br><br>Asasin: %L
+MOTD_INFO5_B = <br>Sansa Asasin: 1 in %d
+MOTD_INFO5_C = <br>Sanatate Asasin: %s
+MOTD_INFO5_D = <br>Viteza Asasin: %d
+MOTD_INFO5_E = <br>Gravitatie Asasin: %d
+MOTD_INFO5_F = <br>Salt Asasin: %L
+MOTD_INFO5_G = <br>Asasin Fara Soc de Durere: %L
+MOTD_INFO5_H = <br><br>Lunetist: %L
+MOTD_INFO5_I = <br>Sansa Lunetist: 1 in %d
+MOTD_INFO5_J = <br>Sanatate Lunetist: %s
+MOTD_INFO5_K = <br>Viteza Lunetist: %d
+MOTD_INFO5_L = <br>Gravitatie Lunetist: %d
+MOTD_INFO5_M = <br>Salt Lunetist: %L
+MOTD_INFO5_N = <br>Lunetist Fara Soc de Durere: %L
+MOTD_INFO5_O = <br>Daune Cauzate de un Glont din AWP'ul Lunetistului: %d
+
+ZOMBIE_ATTRIB5 = Armura
+
+HUMAN_SELECT = Clasa ta de om dupa urmatoarea inviere sau dezinfectare va fi
+
+[ru]
+NOTICE_SNIPER = %s Снайпер!!!
+NOTICE_ASSASSIN = %s Монстр!!!
+NOTICE_SURVIVORNEMESIS = Armageddon Mode!!!
+NOTICE_SURVIVORASSASSIN = Survivors vs Assassins Mode!!!
+NOTICE_SNIPERNEMESIS = Apocalypse Mode!!!
+NOTICE_SNIPERASSASSIN = Hunter and Hunted Mode!!!
+NOTICE_SURVSNIPNEMASS = Nightmare Mode!!!
+
+CMD_SNIPER = Снайпер!!!
+CMD_ASSASSIN = Монстр!!!
+CMD_SURVIVORNEMESIS = start Armageddon Mode
+CMD_SURVIVORASSASSIN = start Survivors vs Assassins Mode
+CMD_SNIPERNEMESIS = start Apocalypse Mode
+CMD_SNIPERASSASSIN = start Hunter and Hunted Mode
+CMD_SURVSNIPNEMASS = start Nightmare Mode
+CMD_NOT_HCLASSES = Классы Людей отключены.
+CMD_NOT_DROP = This weapon cannot be dropped
+
+MENU_CLASSES = Выбрать Класс
+MENU_HCLASS = Класс Человека...
+
+MENU_HCLASS_TITLE = Класс Человека
+
+MENU_ADMIN8 = Сделать Снайпером
+MENU_ADMIN9 = Сделать Монстром
+
+MENU_CUSTOM1 = Custom menu name 1
+MENU_CUSTOM2 = Custom menu name 2
+
+CLASS_SNIPER = Снайпер
+CLASS_ASSASSIN = Монстр
+
+MOTD_INFO1_M = <br>Human Classes: %L
+MOTD_INFO5_A = <br><br>Assassin: %L
+MOTD_INFO5_B = <br>Assassin Chance: 1 in %d
+MOTD_INFO5_C = <br>Assassin Health: %s
+MOTD_INFO5_D = <br>Assassin Speed: %d
+MOTD_INFO5_E = <br>Assassin Gravity: %d
+MOTD_INFO5_F = <br>Assassin Leap: %L
+MOTD_INFO5_G = <br>Assassin Pain Shock Free: %L
+MOTD_INFO5_H = <br><br>Sniper: %L
+MOTD_INFO5_I = <br>Sniper Chance: 1 in %d
+MOTD_INFO5_J = <br>Sniper Health: %s
+MOTD_INFO5_K = <br>Sniper Speed: %d
+MOTD_INFO5_L = <br>Sniper Gravity: %d
+MOTD_INFO5_M = <br>Sniper Leap: %L
+MOTD_INFO5_N = <br>Sniper Pain Shock Free: %L
+MOTD_INFO5_O = <br>Damage Caused by a Sniper's AWP bullet: %d
+
+ZOMBIE_ATTRIB5 = Броня
+
+HUMAN_SELECT = Ваш Класс Человека будет

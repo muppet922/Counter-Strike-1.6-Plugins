@@ -1,0 +1,14 @@
+// overview description file for zm_sand_new.bsp
+
+global 
+{
+	ZOOM	2.21
+	ORIGIN	-232.50	54.50	87.50
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_sand_new.bmp"
+	HEIGHT	-69.00
+}

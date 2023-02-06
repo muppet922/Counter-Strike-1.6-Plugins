@@ -1,0 +1,14 @@
+// overview description file for zm_lila_panic.bsp
+
+global
+{
+ZOOM 2.91
+ORIGIN -224.00 504.00 -257.00
+ROTATED 0
+}
+
+layer
+{
+IMAGE "overviews/zm_lila_panic.bmp"
+HEIGHT -257.00
+}

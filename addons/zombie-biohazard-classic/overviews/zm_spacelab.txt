@@ -1,0 +1,14 @@
+// overview description file for zm_spacelab.bsp
+
+global 
+{
+	ZOOM	1.73
+	ORIGIN	-174.50     1706.69	 -344
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_spacelab.bmp"
+	HEIGHT	-1110
+}

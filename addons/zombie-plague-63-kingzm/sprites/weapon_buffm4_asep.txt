@@ -1,0 +1,4 @@
+3
+weapon			640 asep/640hud132	0	0	170	45
+weapon_s		640 asep/640hud132	0	45	170	45
+ammo			640 asep/640hud7	192	205	24	24

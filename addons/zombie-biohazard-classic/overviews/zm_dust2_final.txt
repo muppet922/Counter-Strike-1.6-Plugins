@@ -1,0 +1,14 @@
+// overview description file for zm_dust2_final.bsp
+
+global 
+{
+	ZOOM	1.31
+	ORIGIN	-264.00	1400.00	108.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_dust2_final.bmp"
+	HEIGHT	-209.00
+}

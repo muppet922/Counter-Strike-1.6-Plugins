@@ -1,0 +1,14 @@
+//overview description file for zm_aztec_kamp.bsp
+
+global
+{
+	ZOOM	1.77 
+	ORIGIN	-1394       -990.50      547
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	"overviews/zm_aztec_kamp.tga"
+	HEIGHT	-776
+} 

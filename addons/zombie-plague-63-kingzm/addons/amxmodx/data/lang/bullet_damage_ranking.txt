@@ -1,0 +1,769 @@
+[en]
+BD_RECORD = Player %s has made a new %i Damage-Record, with *%s* and %i Hits.
+BD_PERSONAL_RECORD = You has made a new %i Personal-Damage-Record, with *%s* and %i Hits.
+BD_INFO = Write ^"/bd^" in the Chat, to open the Bullet Damage Menu.
+BD_NOT_ACCESS = You have no access.
+
+MENU_ON = ON
+MENU_OFF = OFF
+MENU_SINGLE = Show: Single Damage
+MENU_MULTI = Show: Multiple Damage
+MENU_GRENADE = Show: Grenade Damage
+MENU_TAKE = Show: Take Damage
+MENU_TOP_PER = Top Damage: Personal
+MENU_TOP_ALL = Top Damage: All
+MENU_MENU = Menu
+MENU_BACK = Back
+MENU_NEXT = Next
+MENU_EXIT = Exit
+MENU_SAVED = Configuration has been saved.
+MENU_SECONDS = seconds
+
+MENU_CONFIG_TITLE = Configuration Menu
+MENU_ADMIN_TITLE = Admin Menu
+MENU_SINGLE_TITLE = Single
+MENU_MULTI_TITLE = Multiple
+MENU_GRENADE_TITLE = Grenade
+MENU_TAKE_TITLE = Take
+MENU_SAVE_TITLE = Save configuration.
+MENU_TEST_TITLE = Test configuration.
+
+MENU_DYNAMIC_COLOR = Color
+MENU_DYNAMIC_STYLE = Style
+MENU_DYNAMIC_POSI = Position
+MENU_DYNAMIC_TIME = Holdtime
+
+MENU_COLOR_RED = Red
+MENU_COLOR_GREEN = Green
+MENU_COLOR_BLUE = Blue
+MENU_COLOR_YELLOW = Yellow
+MENU_COLOR_CYAN = Cyan
+MENU_COLOR_WHITE = White
+
+MENU_POSI_UP = Up
+MENU_POSI_DOWN = Down
+MENU_POSI_RIGHT = Right
+MENU_POSI_LEFT = Left
+MENU_POSI_TYPE = Type
+
+MENU_TIME_UP = Increase
+MENU_TIME_DOWN = Decrease
+
+MENU_RESET_ALL = All
+MENU_RESET_RECORD = records reseted.
+MENU_RESET_UNKNOWN = ERROR: unknown argument.
+
+[fr]
+BD_RECORD = Le joueur %s a battu un nouveau %i Record de Dommages, avec *%s* et %i Coups.
+BD_PERSONAL_RECORD = Vous avez battu un nouveau %i Record Personnel de Dommages, avec *%s* et %i Coups.
+BD_INFO = Ecrire ^"/bd^" dans le Chat, Pour Ouvrir le Menu de l'Affichage des Dommages par Balles.
+BD_NOT_ACCESS = Vous n'y avez pas acces.
+
+MENU_ON = ON
+MENU_OFF = OFF
+MENU_SINGLE = Montrer: Dommage Unique
+MENU_MULTI = Montrer: Dommage Multiple
+MENU_GRENADE = Montrer: Dommage a la Grenade
+MENU_TAKE = Montrer: Recevoir un Dommage
+MENU_TOP_PER = Top Dommage: Personnel
+MENU_TOP_ALL = Top Dommage: Tous
+MENU_MENU = Menu
+MENU_BACK = Precedent
+MENU_NEXT = Suivant
+MENU_EXIT = Sortir
+MENU_SAVED = La Configuration a ete sauvegardee.
+MENU_SECONDS = secondes
+
+MENU_CONFIG_TITLE = Menu de Configuration
+MENU_ADMIN_TITLE = Menu Admin
+MENU_SINGLE_TITLE = Unique
+MENU_MULTI_TITLE = Multiple
+MENU_GRENADE_TITLE = Grenade
+MENU_TAKE_TITLE = Recevoir
+MENU_SAVE_TITLE = Sauvegarder la configuration.
+MENU_TEST_TITLE = Tester la configuration.
+
+MENU_DYNAMIC_COLOR = Couleur
+MENU_DYNAMIC_STYLE = Style
+MENU_DYNAMIC_POSI = Position
+MENU_DYNAMIC_TIME = Temps de retenue
+
+MENU_COLOR_RED = Rouge
+MENU_COLOR_GREEN = Vert
+MENU_COLOR_BLUE = Bleu
+MENU_COLOR_YELLOW = Jaune
+MENU_COLOR_CYAN = Cyan
+MENU_COLOR_WHITE = Blanc
+
+MENU_POSI_UP = Haut
+MENU_POSI_DOWN = Bas
+MENU_POSI_RIGHT = Droite
+MENU_POSI_LEFT = Gauche
+MENU_POSI_TYPE = Type
+
+MENU_TIME_UP = Augmenter
+MENU_TIME_DOWN = Diminuer
+
+MENU_RESET_ALL = Tous
+MENU_RESET_RECORD = records reintialises.
+MENU_RESET_UNKNOWN = ERREUR: argument inconnu.
+
+[ro]
+BD_RECORD = Jucatorul %s a facut un nou Record de Avarii(%i), cu *%s* si %i lovituri.
+BD_PERSONAL_RECORD = Ai facut un nou Record Personal de Avarii(%i), cu *%s* si %i lovituri.
+BD_INFO = Scrie ^"/bd^" in Chat, ca sa deschizi meniul Bullet Damage.
+BD_NOT_ACCESS = Nu ai acces.
+
+MENU_ON = PORNIT
+MENU_OFF = OPRIT
+MENU_SINGLE = Arata: Damage Individual
+MENU_MULTI = Arata: Damage Total
+MENU_GRENADE = Arata: Damage Grenada
+MENU_TAKE = Arata: Damage Primit
+MENU_TOP_PER = Top Damage: Personal
+MENU_TOP_ALL = Top Damage: Toti
+MENU_MENU = Meniu
+MENU_BACK = Inapoi
+MENU_NEXT = Inainte
+MENU_EXIT = Iesire
+MENU_SAVED = Configuratia a fost salvata.
+MENU_SECONDS = secunde
+
+MENU_CONFIG_TITLE = Meniu de Configurare
+MENU_ADMIN_TITLE = Meniu de Admin
+MENU_SINGLE_TITLE = Individual
+MENU_MULTI_TITLE = Total
+MENU_GRENADE_TITLE = Grenada
+MENU_TAKE_TITLE = Primit
+MENU_SAVE_TITLE = Salvare configuratie.
+MENU_TEST_TITLE = Testare configuratie.
+
+MENU_DYNAMIC_COLOR = Culoare
+MENU_DYNAMIC_STYLE = Stil
+MENU_DYNAMIC_POSI = Localizare
+MENU_DYNAMIC_TIME = Timp de mentinere
+
+MENU_COLOR_RED = Rosu
+MENU_COLOR_GREEN = Verde
+MENU_COLOR_BLUE = Albastru
+MENU_COLOR_YELLOW = Galben
+MENU_COLOR_CYAN = Bleo
+MENU_COLOR_WHITE = Alb
+
+MENU_POSI_UP = Sus
+MENU_POSI_DOWN = Jos
+MENU_POSI_RIGHT = Dreapta
+MENU_POSI_LEFT = Stanga
+MENU_POSI_TYPE = Tip
+
+MENU_TIME_UP = Creste
+MENU_TIME_DOWN = Scade
+
+MENU_RESET_ALL = Toate
+MENU_RESET_RECORD = recordurile au fost resetate.
+MENU_RESET_UNKNOWN = EROARE: argument necunoscut.
+
+[bp]
+BD_RECORD = Player %s fez um novo recorde de damage %i, com *%s* e %i hits.
+BD_PERSONAL_RECORD = Voce fez um novo recorde pessoal de damage %i, come *%s* e %i hits.
+BD_INFO = Escreva ^"/bd^" no chat, para abrir o Bullet Damage Menu.
+BD_NOT_ACCESS = Voce nao tem acesso.
+
+MENU_ON = ON
+MENU_OFF = OFF
+MENU_SINGLE = Mostrar: Damage Pessoal
+MENU_MULTI = Mostrar: Damage de todos
+MENU_GRENADE = Mostrar: Damage de granada
+MENU_TAKE = Mostrar: Damage tomada
+MENU_TOP_PER = Top Damage: Pessoal
+MENU_TOP_ALL = Top Damage: Todos
+MENU_MENU = Menu
+MENU_BACK = Voltar
+MENU_NEXT = Proximo
+MENU_EXIT = Sair
+MENU_SAVED = Configuracoes bem salvas.
+MENU_SECONDS = segundos
+
+MENU_CONFIG_TITLE = Menu de configuracao
+MENU_ADMIN_TITLE = Admin Menu
+MENU_SINGLE_TITLE = Pessoal
+MENU_MULTI_TITLE = Todos
+MENU_GRENADE_TITLE = Granada
+MENU_TAKE_TITLE = Tomada
+MENU_SAVE_TITLE = Salvar configuracao.
+MENU_TEST_TITLE = Testar configuracao.
+
+MENU_DYNAMIC_COLOR = Cor
+MENU_DYNAMIC_STYLE = Estilo
+MENU_DYNAMIC_POSI = Posicao
+MENU_DYNAMIC_TIME = Tempo
+
+MENU_COLOR_RED = Vermelho
+MENU_COLOR_GREEN = Verde
+MENU_COLOR_BLUE = Azul
+MENU_COLOR_YELLOW = Amarelo
+MENU_COLOR_CYAN = Cyan
+MENU_COLOR_WHITE = Branco
+
+MENU_POSI_UP = Acima
+MENU_POSI_DOWN = Embaixo
+MENU_POSI_RIGHT = Direita
+MENU_POSI_LEFT = Esquerda
+MENU_POSI_TYPE = Tipo
+
+MENU_TIME_UP = Aumentar
+MENU_TIME_DOWN = Diminuir
+
+MENU_RESET_ALL = Todos
+MENU_RESET_RECORD = records resetados.
+MENU_RESET_UNKNOWN = ERRO: argumento desconhecido.
+
+[pl]
+BD_RECORD = Gracz %s pobil nowy rekord obrazen %i zadal *%s* obrazen i %i trafien.
+BD_PERSONAL_RECORD = Pobiles swoj nowy osobisty rekord %i, z *%s* zabic %i trafien.
+BD_INFO = Wpisz w czacie ^"/bd^" aby otworzyc menu bullet dmg.
+BD_NOT_ACCESS = Nie masz dostepu.
+
+MENU_ON = WL
+MENU_OFF = WYL
+MENU_SINGLE = Pokazuj: Pojedyncze obrazenia
+MENU_MULTI = Pokazuj: Calosc obrazen
+MENU_GRENADE = Pokazuj: Obrazenia granatow
+MENU_TAKE = Pokazuj: Zabrane obrazenia
+MENU_TOP_PER = Najwyzsze obrazenia: Osobiste
+MENU_TOP_ALL = Najwyzsze obrazenia: Wszystkie
+MENU_MENU = Menu
+MENU_BACK = Wroc
+MENU_NEXT = Nastepna
+MENU_EXIT = Wyjdz
+MENU_SAVED = Konfiguracja zapisana
+MENU_SECONDS = sekund
+
+MENU_CONFIG_TITLE = Menu konfiguracji
+MENU_ADMIN_TITLE = Menu admina
+MENU_SINGLE_TITLE = Pojedyncze obrazenia
+MENU_MULTI_TITLE = Calosc obrazen
+MENU_GRENADE_TITLE = Granat
+MENU_TAKE_TITLE = Zabrane
+MENU_SAVE_TITLE = Zapisz konfiguracje.
+MENU_TEST_TITLE = Testuj konfiguracje.
+
+MENU_DYNAMIC_COLOR = Kolor
+MENU_DYNAMIC_STYLE = Wyglad
+MENU_DYNAMIC_POSI = Pozycja
+MENU_DYNAMIC_TIME = Czas utrzymania sie
+
+MENU_COLOR_RED = Czerwony
+MENU_COLOR_GREEN = Zielony
+MENU_COLOR_BLUE = Niebieski
+MENU_COLOR_YELLOW = Zolty
+MENU_COLOR_CYAN = Blekit cyjanowy
+MENU_COLOR_WHITE = Bialy
+
+MENU_POSI_UP = W gore
+MENU_POSI_DOWN = W dol
+MENU_POSI_RIGHT = W prawo
+MENU_POSI_LEFT = W lewo
+MENU_POSI_TYPE = Type
+
+MENU_TIME_UP = Zwieksz
+MENU_TIME_DOWN = Zmniejsz
+
+MENU_RESET_ALL = Wszystkie
+MENU_RESET_RECORD = rekordy zresetowane.
+MENU_RESET_UNKNOWN = BLAD: nieznany argument.
+
+[lt]
+BD_RECORD = Zaidejas %s padare nauja %i Zalos-Rekorda, su *%s* ir %i Pataikymais.
+BD_PERSONAL_RECORD = Tu katik pagerinai %i Zalos Rekorda, su *%s* ir %i Pataikymais.
+BD_INFO = Rasyk ^"/bd^" Chate, noredamas atidaryti Kulku Zalos Meniu.
+BD_NOT_ACCESS = Tu neturi priejimo.
+
+MENU_ON = Ijungta
+MENU_OFF = Isjungta
+MENU_SINGLE = Rodyti: Paviene Zala
+MENU_MULTI = Rodyti: Multi Zala
+MENU_GRENADE = Rodyti: Granatos Zala
+MENU_TAKE = Rodyti: Gauta Zala
+MENU_TOP_PER = Top Zala: Asmenine
+MENU_TOP_ALL = Top Zala: Visu
+MENU_MENU = Meniu
+MENU_BACK = Atgal
+MENU_NEXT = Toliau
+MENU_EXIT = Iseiti
+MENU_SAVED = Konfiguracija buvo issaugota.
+MENU_SECONDS = sekundes
+
+MENU_CONFIG_TITLE = Konfiguracijos Meniu
+MENU_ADMIN_TITLE = Admin Meniu
+MENU_SINGLE_TITLE = Vienas
+MENU_MULTI_TITLE = Multi
+MENU_GRENADE_TITLE = Granata
+MENU_TAKE_TITLE = Priimta
+MENU_SAVE_TITLE = Issaugoti konfiguracija
+MENU_TEST_TITLE = Isbandyti konfiguracija
+
+MENU_DYNAMIC_COLOR = Spalva
+MENU_DYNAMIC_STYLE = Stilius
+MENU_DYNAMIC_POSI = Pozicija
+MENU_DYNAMIC_TIME = Uzlaikymo laikas
+
+MENU_COLOR_RED = Raudona
+MENU_COLOR_GREEN = Zalia
+MENU_COLOR_BLUE = Melyna
+MENU_COLOR_YELLOW = Geltona
+MENU_COLOR_CYAN = Cyan
+MENU_COLOR_WHITE = Balta
+
+MENU_POSI_UP = I virsu
+MENU_POSI_DOWN = Zemyn
+MENU_POSI_RIGHT = I desine
+MENU_POSI_LEFT = I kaire
+MENU_POSI_TYPE = Rusis
+
+MENU_TIME_UP = Padidinti
+MENU_TIME_DOWN = Sumazinti
+
+MENU_RESET_ALL = Visi
+MENU_RESET_RECORD = Irasai perkrauti.
+MENU_RESET_UNKNOWN = KLAIDA: nezinomas argumentas.
+
+[es]
+BD_RECORD = El jugador %s ha hecho un nuevo %i record de daños, con *%s* y %i impactos.
+BD_PERSONAL_RECORD = Has hecho un nuevo %i record de daños personal, con *%s* y %i impactos.
+BD_INFO = escribe ^"/bd^" en el Chat, para abrir el menu de bullet damage.
+BD_NOT_ACCESS = No tienes acceso.
+
+MENU_ON = ON
+MENU_OFF = OFF
+MENU_SINGLE = Mostrar: Daños por cada bala
+MENU_MULTI = Mostrar: Daños multiples
+MENU_GRENADE = Mostrar: Daños con granada
+MENU_TAKE = Mostrar: Daños recibidos
+MENU_TOP_PER = Top de daños: Personal
+MENU_TOP_ALL = Top De daños: totales
+MENU_MENU = Menu
+MENU_BACK = Atras
+MENU_NEXT = Siguiente
+MENU_EXIT = Salir
+MENU_SAVED = Se han guardado las configuraciones.
+MENU_SECONDS = Segundos
+
+MENU_CONFIG_TITLE = Menu de configuracion
+MENU_ADMIN_TITLE = Menu del Admin
+MENU_SINGLE_TITLE = Simple
+MENU_MULTI_TITLE = Multiple
+MENU_GRENADE_TITLE = Grenade
+MENU_TAKE_TITLE = Tomar
+MENU_SAVE_TITLE = Guardar configuracion.
+MENU_TEST_TITLE = Probar configuracion.
+
+MENU_DYNAMIC_COLOR = Color
+MENU_DYNAMIC_STYLE = Estilo
+MENU_DYNAMIC_POSI = Posicion
+MENU_DYNAMIC_TIME = Tiempo de espera
+
+MENU_COLOR_RED = Rojo
+MENU_COLOR_GREEN = Verde
+MENU_COLOR_BLUE = Azul
+MENU_COLOR_YELLOW = Amarillo
+MENU_COLOR_CYAN = Cyan
+MENU_COLOR_WHITE = Blanco
+
+MENU_POSI_UP = Arriba
+MENU_POSI_DOWN = Abajo
+MENU_POSI_RIGHT = Derecha
+MENU_POSI_LEFT = Izquierda
+MENU_POSI_TYPE = Tipo
+
+MENU_TIME_UP = Subir valor
+MENU_TIME_DOWN = Bajar balor
+
+MENU_RESET_ALL = TODO
+MENU_RESET_RECORD = Records reiniciados.
+MENU_RESET_UNKNOWN = ERROR: Argumento desconocido.
+
+[ru]
+BD_RECORD = Игрок %s нанес новый %i рекордный урон, с *%s* и %i попаданий.
+BD_PERSONAL_RECORD = Ты поставил новый %i персональный-рекордный-урон, с *%s* и %i попаданий.
+BD_INFO = Пиши ^"/bd^" в чат, и откроешь Урон Меню.
+BD_NOT_ACCESS = Нету доступа.
+
+MENU_ON = ON
+MENU_OFF = OFF
+MENU_SINGLE = Показать: Одиночний Урон
+MENU_MULTI = Показать: Мульти Урон
+MENU_GRENADE = Показать: Урон от Гранаты
+MENU_TAKE = Показать: Нанесенный Урон
+MENU_TOP_PER = Топ Урона: Личный
+MENU_TOP_ALL = Топ Урона: Общий
+MENU_MENU = Меню
+MENU_BACK = Назад
+MENU_NEXT = Вперед
+MENU_EXIT = Выход
+MENU_SAVED = Настройки были сохранены.
+MENU_SECONDS = секунды
+
+MENU_CONFIG_TITLE = Меню настроек
+MENU_ADMIN_TITLE = Админ меню
+MENU_SINGLE_TITLE = Одиночный
+MENU_MULTI_TITLE = Мульти
+MENU_GRENADE_TITLE = Граната
+MENU_TAKE_TITLE = Взять
+MENU_SAVE_TITLE = Сохранить настройки.
+MENU_TEST_TITLE = Тест настроек.
+
+MENU_DYNAMIC_COLOR = Цвет
+MENU_DYNAMIC_STYLE = Стиль
+MENU_DYNAMIC_POSI = Позиция
+MENU_DYNAMIC_TIME = Время задержки
+
+MENU_COLOR_RED = Красный
+MENU_COLOR_GREEN = Зеленый
+MENU_COLOR_BLUE = Голубой
+MENU_COLOR_YELLOW = Жолтный
+MENU_COLOR_CYAN = Пурпурный
+MENU_COLOR_WHITE = Белый
+
+MENU_POSI_UP = Вверх
+MENU_POSI_DOWN = Вниз
+MENU_POSI_RIGHT = Вправо
+MENU_POSI_LEFT = Влево
+MENU_POSI_TYPE = Тип
+
+MENU_TIME_UP = Увеличение
+MENU_TIME_DOWN = Уменьшение
+
+MENU_RESET_ALL = Все
+MENU_RESET_RECORD = рекорды сброшены.
+MENU_RESET_UNKNOWN = ОШИБКА: неизвестный аргумент.
+
+[sk]
+BD_RECORD = Hrac %s urobil novy %i Damage-Record, so zbranou *%s* a %i zasahmi.
+BD_PERSONAL_RECORD = Urobil si novy %i Osobny-Damage-Record, zo zbranou *%s* a %i zasahmi.
+BD_INFO = Napis ^"/bd^" v chate, na otvorenie menu.
+BD_NOT_ACCESS = Nemas pristup.
+
+MENU_ON = ZAPNUTE
+MENU_OFF = VYPNUTE
+MENU_SINGLE = Ukazat: DMG
+MENU_MULTI = Ukazat: DMG spolu
+MENU_GRENADE = Ukazat: DMG granatu
+MENU_TAKE = Ukazat: Prijate DMG
+MENU_TOP_PER = Top DMG: Svoje
+MENU_TOP_ALL = Top DMG: Vsetci
+MENU_MENU = Menu
+MENU_BACK = Spat
+MENU_NEXT = Dalej
+MENU_EXIT = Ukoncit
+MENU_SAVED = Nadstavenia ulozene.
+MENU_SECONDS = sekundy
+
+MENU_CONFIG_TITLE = Nadstavenia
+MENU_ADMIN_TITLE = Admin Menu
+MENU_SINGLE_TITLE = DMG
+MENU_MULTI_TITLE = DMG spolu
+MENU_GRENADE_TITLE = DMG granatu
+MENU_TAKE_TITLE = Prijate DMG
+MENU_SAVE_TITLE = Ulozit nadstavenia.
+MENU_TEST_TITLE = Otestovat nadstavenia.
+
+MENU_DYNAMIC_COLOR = Farba
+MENU_DYNAMIC_STYLE = Blikanie
+MENU_DYNAMIC_POSI = Pozicia
+MENU_DYNAMIC_TIME = Cas ukazania
+
+MENU_COLOR_RED = Cervena
+MENU_COLOR_GREEN = Zelena
+MENU_COLOR_BLUE = Modra
+MENU_COLOR_YELLOW = Zlta
+MENU_COLOR_CYAN = Azurova
+MENU_COLOR_WHITE = Biela
+
+MENU_POSI_UP = Hore
+MENU_POSI_DOWN = Dole
+MENU_POSI_RIGHT = Vpravo
+MENU_POSI_LEFT = Vlavo
+MENU_POSI_TYPE = Typ vpisovania
+
+MENU_TIME_UP = Pridat
+MENU_TIME_DOWN = Odobrat
+
+MENU_RESET_ALL = Vsetci
+MENU_RESET_RECORD = Rekordy vymazane.
+MENU_RESET_UNKNOWN = CHYBA: Neznamy argument.
+
+[cz]
+BD_RECORD = Hrac %s vytvoril novy %i Damage-Record, se zbrani *%s* a %i zasahy.
+BD_PERSONAL_RECORD = Vytvoril jsi novy %i Osobni-Damage-Record, se zbrani *%s* a %i zasahy.
+BD_INFO = Napis ^"/bd^" v chatu, na otevreni menu.
+BD_NOT_ACCESS = Nemas pristup.
+
+MENU_ON = ZAPNUTO
+MENU_OFF = VYPNUTO
+MENU_SINGLE = Ukazat: DMG
+MENU_MULTI = Ukazat: DMG dohromady
+MENU_GRENADE = Ukazat: DMG granatu
+MENU_TAKE = Ukazat: Obdrzeny DMG
+MENU_TOP_PER = Top DMG: Moje
+MENU_TOP_ALL = Top DMG: Vsichni
+MENU_MENU = Menu
+MENU_BACK = Zpet
+MENU_NEXT = Dalsi
+MENU_EXIT = Konec
+MENU_SAVED = Nastaveni ulozena.
+MENU_SECONDS = sekundy
+
+MENU_CONFIG_TITLE = Nastaveni
+MENU_ADMIN_TITLE = Admin Menu
+MENU_SINGLE_TITLE = DMG
+MENU_MULTI_TITLE = DMG dohromady
+MENU_GRENADE_TITLE = DMG granatu
+MENU_TAKE_TITLE = Obdrzeny DMG
+MENU_SAVE_TITLE = Ulozit nastaveni.
+MENU_TEST_TITLE = Otestovat nastaveni.
+
+MENU_DYNAMIC_COLOR = Barva
+MENU_DYNAMIC_STYLE = Blikani
+MENU_DYNAMIC_POSI = Pozice
+MENU_DYNAMIC_TIME = Cas zobrazeni
+
+MENU_COLOR_RED = Cervena
+MENU_COLOR_GREEN = Zelena
+MENU_COLOR_BLUE = Modra
+MENU_COLOR_YELLOW = Zluta
+MENU_COLOR_CYAN = Azurova
+MENU_COLOR_WHITE = Bila
+
+MENU_POSI_UP = Nahoru
+MENU_POSI_DOWN = Dolu
+MENU_POSI_RIGHT = Vpravo
+MENU_POSI_LEFT = Vlevo
+MENU_POSI_TYPE = Typ zapisovani
+
+MENU_TIME_UP = Pridat
+MENU_TIME_DOWN = Odebrat
+
+MENU_RESET_ALL = Vsichni
+MENU_RESET_RECORD = Rekordy vymazany.
+MENU_RESET_UNKNOWN = CHYBA: Neznamy argument.
+
+[hu]
+BD_RECORD = %s uj sebzes rekordot ert el: %s, %i sebzes, %i talalat.
+BD_PERSONAL_RECORD = Uj egyeni sebzes rekordot ertel el: %s, %i sebzes, %i talalat.
+BD_INFO = Ird be a chatbe, hogy ^"/bd^", a Golyo Sebzes Menu megnyitasahoz.
+BD_NOT_ACCESS = Nincs engedelyed a hozzafereshez.
+
+MENU_ON = ON
+MENU_OFF = OFF
+MENU_SINGLE = Megjelenites: Egyetlen Sebzesi ertek
+MENU_MULTI = Megjelenites: Tobb Sebzesi ertek
+MENU_GRENADE = Megjelenites: Granat Sebzesi ertek
+MENU_TAKE = Megjelenites: Elszenvedett Sebzesi ertek
+MENU_TOP_PER = Legtobb Sebzes: Szemelyes
+MENU_TOP_ALL = Legtobb Sebzes: Osszes
+MENU_MENU = Menu
+MENU_BACK = Vissza
+MENU_NEXT = Kovetkezo
+MENU_EXIT = Kilepes
+MENU_SAVED = Beallitasok elmentve.
+MENU_SECONDS = masodperc
+
+MENU_CONFIG_TITLE = Beallitasok Menu
+MENU_ADMIN_TITLE = Admin Menu
+MENU_SINGLE_TITLE = Egyetlen
+MENU_MULTI_TITLE = Tobb
+MENU_GRENADE_TITLE = Granat
+MENU_TAKE_TITLE = Kapott
+MENU_SAVE_TITLE = Beallitasok mentese.
+MENU_TEST_TITLE = Beallitasok tesztelese.
+
+MENU_DYNAMIC_COLOR = Szin
+MENU_DYNAMIC_STYLE = Stilus
+MENU_DYNAMIC_POSI = Helyzet
+MENU_DYNAMIC_TIME = Idotartam
+
+MENU_COLOR_RED = Piros
+MENU_COLOR_GREEN = Zold
+MENU_COLOR_BLUE = Kek
+MENU_COLOR_YELLOW = Sarga
+MENU_COLOR_CYAN = Cian
+MENU_COLOR_WHITE = Feher
+
+MENU_POSI_UP = Fel
+MENU_POSI_DOWN = Le
+MENU_POSI_RIGHT = Jobb
+MENU_POSI_LEFT = Bal
+MENU_POSI_TYPE = Tipus
+
+MENU_TIME_UP = Noveles
+MENU_TIME_DOWN = Csokkentes
+
+MENU_RESET_ALL = Osszes
+MENU_RESET_RECORD = rekordok torolve.
+MENU_RESET_UNKNOWN = HIBA: ismeretlen erv.
+
+[bg]
+BD_RECORD = Igracha %s napravi nov %i Damage-Record, s *%s* i %i Hita.
+BD_PERSONAL_RECORD = Vie napravihte nov %i Personalen-Damage-Record, s *%s* i %i Hita.
+BD_INFO = Napishete ^"/bd^" v Chata, za da otvorite Bullet Damage Menu.
+BD_NOT_ACCESS = Nqmate dostup.
+
+MENU_ON = Vkluchi
+MENU_OFF = Izkluchi
+MENU_SINGLE = Pokaji: Edinichen Damage
+MENU_MULTI = Pokaji: Mnogobroen Damage
+MENU_GRENADE = Pokaji: Damage ot granati
+MENU_TAKE = Pokaji: Vzet Damage
+MENU_TOP_PER = Top Damage: Personalen
+MENU_TOP_ALL = Top Damage: Vsichki
+MENU_MENU = Menu
+MENU_BACK = Nazad
+MENU_NEXT = Napred
+MENU_EXIT = Izhod
+MENU_SAVED = Konfiguraciqta e zapazena.
+MENU_SECONDS = sekundi
+
+MENU_CONFIG_TITLE = Menu za konfiguraciqta
+MENU_ADMIN_TITLE = Admminsko Menu
+MENU_SINGLE_TITLE = Edinichen
+MENU_MULTI_TITLE = Mnogobroen
+MENU_GRENADE_TITLE = Granata
+MENU_TAKE_TITLE = Vzet
+MENU_SAVE_TITLE = Zapazi konfiguraciqta.
+MENU_TEST_TITLE = Izprobvai konfiguraciqta.
+
+MENU_DYNAMIC_COLOR = Cvqt
+MENU_DYNAMIC_STYLE = Stil
+MENU_DYNAMIC_POSI = Poziciq
+MENU_DYNAMIC_TIME = Zadurjane na vremeto
+
+MENU_COLOR_RED = Cherven
+MENU_COLOR_GREEN = Zelen
+MENU_COLOR_BLUE = Sin
+MENU_COLOR_YELLOW = Jult
+MENU_COLOR_CYAN = Svetlo sin
+MENU_COLOR_WHITE = bql
+
+MENU_POSI_UP = Nagore
+MENU_POSI_DOWN = Nadolo
+MENU_POSI_RIGHT = Nadqsno
+MENU_POSI_LEFT = Nalqvo
+MENU_POSI_TYPE = Vid
+
+MENU_TIME_UP = Uvelichi
+MENU_TIME_DOWN = Namali
+
+MENU_RESET_ALL = Vsichki
+MENU_RESET_RECORD = recordite sa nulirani.
+MENU_RESET_UNKNOWN = GRESHKA: nepoznat argument.
+
+[tr]
+BD_RECORD = Oyuncu %s yeni bir %i hasar rekoru kirdi, *%s* ve %i vurus ile.
+BD_PERSONAL_RECORD = Sen yeni bir  %i Kisisel Hasar Rekorunu kirdin,  *%s* ve %i vurus ile.
+BD_INFO = ^"/bd^" yazarak, Kursun hasari menusunu acabilirsiniz.
+BD_NOT_ACCESS = Senin yetkin yok.
+
+MENU_ON = ACIK
+MENU_OFF = KAPALI
+MENU_SINGLE = Gosteriliyor: Tek Hasar
+MENU_MULTI = Gosteriliyor: Coklu Hasar
+MENU_GRENADE = Gosteriliyor: Bomba Hasari
+MENU_TAKE = Gosteriliyor: Alinan Hasar
+MENU_TOP_PER = Toplam Hasar: Kisisel
+MENU_TOP_ALL = Toplam Hasar: Herkez
+MENU_MENU = Menu
+MENU_BACK = Geri
+MENU_NEXT = Ileri
+MENU_EXIT = Cikis
+MENU_SAVED = Ayarlar kaydedildi.
+MENU_SECONDS = saniye
+
+MENU_CONFIG_TITLE = Ayar Menusu
+MENU_ADMIN_TITLE = Admin Menusu
+MENU_SINGLE_TITLE = Tek
+MENU_MULTI_TITLE = Coklu
+MENU_GRENADE_TITLE = Bomba
+MENU_TAKE_TITLE = Alinan
+MENU_SAVE_TITLE = Ayarlari Kaydet.
+MENU_TEST_TITLE = Ayarlari Test Et.
+
+MENU_DYNAMIC_COLOR = Renk
+MENU_DYNAMIC_STYLE = Stil
+MENU_DYNAMIC_POSI = Pozisyon
+MENU_DYNAMIC_TIME = Durdugu Zaman
+
+MENU_COLOR_RED = Kirmizi
+MENU_COLOR_GREEN = Yesil
+MENU_COLOR_BLUE = Mavi
+MENU_COLOR_YELLOW = Sari
+MENU_COLOR_CYAN = Turkuaz
+MENU_COLOR_WHITE = Beyaz
+
+MENU_POSI_UP = Yukari
+MENU_POSI_DOWN = Asagi
+MENU_POSI_RIGHT = Sag
+MENU_POSI_LEFT = Sol
+MENU_POSI_TYPE = Tipi
+
+MENU_TIME_UP = Alinan
+MENU_TIME_DOWN = Verilen
+
+MENU_RESET_ALL = Herkez
+MENU_RESET_RECORD = Rekorlar Sifirlandi.
+MENU_RESET_UNKNOWN = HATA: Bilinmeyen kelime.
+
+[de]
+BD_RECORD = Spieler %s hat einen neuen %i Schadens-Rekord gemacht mit *%s* und %i Treffern.
+BD_PERSONAL_RECORD = Du hast einen neuen %i Person-Schaden-Rekord gemacht mit *%s* und %i Treffern.
+BD_INFO = Schreib ^"/bd^" in den Chat um das Bullet Menu zu oeffnen.
+BD_NOT_ACCESS = Du hast keinen Zugriff.
+
+MENU_ON = AN
+MENU_OFF = AUS
+MENU_SINGLE = Zeig: Einzelschaden
+MENU_MULTI = Zeig: Doppelschaden
+MENU_GRENADE = Zeig: Granatschaden
+MENU_TAKE = Zeig: Schaden nehmen
+MENU_TOP_PER = Top Schaden: Person
+MENU_TOP_ALL = Top Schaden: Alle
+MENU_MENU = Menu
+MENU_BACK = Zurueck
+MENU_NEXT = Naechste
+MENU_EXIT = Exit
+MENU_SAVED = Konfiguration wurde gespeichert.
+MENU_SECONDS = Sekunden
+
+MENU_CONFIG_TITLE = Konfigurations Menu
+MENU_ADMIN_TITLE = Admin Menu
+MENU_SINGLE_TITLE = Einzel
+MENU_MULTI_TITLE = Doppel
+MENU_GRENADE_TITLE = Granate
+MENU_TAKE_TITLE = Nehmen
+MENU_SAVE_TITLE = Speicher Konfiguration.
+MENU_TEST_TITLE = Teste Konfiguration.
+
+MENU_DYNAMIC_COLOR = Farbe
+MENU_DYNAMIC_STYLE = Style
+MENU_DYNAMIC_POSI = Position
+MENU_DYNAMIC_TIME = Haltezeit
+
+MENU_COLOR_RED = Rot
+MENU_COLOR_GREEN = Gruen
+MENU_COLOR_BLUE = Blau
+MENU_COLOR_YELLOW = Gelb
+MENU_COLOR_CYAN = Hellblau
+MENU_COLOR_WHITE = Weiss
+
+MENU_POSI_UP = Oben
+MENU_POSI_DOWN = Unten
+MENU_POSI_RIGHT = Rechts
+MENU_POSI_LEFT = Links
+MENU_POSI_TYPE = Typ
+
+MENU_TIME_UP = Erhoehen
+MENU_TIME_DOWN = Verkleinern
+
+MENU_RESET_ALL = Alle
+MENU_RESET_RECORD = rekorde zurueckgesetzt.
+MENU_RESET_UNKNOWN = FEHLER: unbekanntes argument.

@@ -1,0 +1,136 @@
+[en]
+SCAN_CLEAN =
+SCAN_INFECTED =
+SCAN_RESULTS =
+INFECTED_TXT = !3[BIO-SCAN] !1The !4[VIRUS] !1was lost and !1[%s] !1is !4[INFECTED] !
+INFECTED_TXT2 = !3[BIO-SCAN]!1 The !4[VIRUS] !1has spread!
+INFECTED_HUD = [WARNING]^n%s is Infected!
+INFECTED_HUD2 = [WARNING]^nThe infection has spread!
+MUTATION_HUD = You have mutated to a %s!
+WIN_TXT_ZOMBIES = Zombies win!
+WIN_TXT_SURVIVORS = Survivors win!
+MENU_TITLE1 = Equipments
+MENU_TITLE2 = Primary
+MENU_TITLE3 = Secondary
+MENU_TITLE4 = Select Zombie Class
+MENU_BACK = Back
+MENU_MORE = More
+MENU_EXIT = Exit
+MENU_NEWWEAPONS = New Weapons
+MENU_PREVSETUP = Previous Setup
+MENU_DONTSHOW = Don't show menu again
+MENU_REENABLED = !4[BIO-MENU]!1 Your equip menu has been re-enabled.
+MENU_ALENABLED = !4[BIO-MENU]!1 Your equip menu is already enabled.
+MENU_CMDENABLE = !4[BIO-MENU]!1 Type!3 ^"/guns^"!1 in chat to re-enable your equip menu.
+MENU_CHANGECLASS = !4[BIO-CLASS]!1 You'll mutate into a!3 [%s]!1 next time you're infected.
+CMD_MAXZOMBIES = Max zombies reached.
+CMD_INFECTED = You have infected [%s].
+CMD_TEAMCHANGE = [BIO-TEAM] You are not allowed to change team.
+CMD_GAMENOTSTARTED = Game has not started yet.
+SUICIDEPUNISH_TXT = [Biohazard] You have been punished for committing suicide.
+WELCOME_TXT = !4[BIO-INFO]!1 This server is running !3[TR&UG] !1Zombie Biohazard !3[v#Version#] !1default version.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre    
+			{       font-weight: bold;
+				font-family:Lucida, Sans;
+				color: #006600;
+                                font-size: 15px;
+			}
+
+			body
+			{       
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<img src="https://s10.postimg.org/63lmi2w7t/biohazard.jpg">^n
+			TR&UG Zombie Biohazard v#Version# by Trebor Unaerugnu^n^n^n
+			Follow the instructions below:^n^n^n
+			Type /help in chat to open this motd.^n^n
+			You want to use Zombie Smoker's ability? Just follow the instrunctions below.^n^n
+			Type "bind f +drag" in your console, then press "F" to drag humans.^n^n
+			You want to plant and deplant lasermines? Just follow the instructions below:^n^n
+			Type "bind v +setlaser" in your console, then hold "V" on the walls to set lasermines.^n^n
+			Type "bind c +dellaser" in your console, then hold "C" on your laser to take it back.^n^n
+			Enjoy the game.^n
+		</pre>
+	</body>
+</html>
+:
+
+[ro]
+[en]
+SCAN_CLEAN =
+SCAN_INFECTED =
+SCAN_RESULTS =
+INFECTED_TXT = !3[BIO-SCAN] !1The !4[VIRUS] !1was lost and !1[%s] !1is !4[INFECTED] !
+INFECTED_TXT2 = !3[BIO-SCAN]!1 The !4[VIRUS] !1has spread!
+INFECTED_HUD = [WARNING]^n%s is Infected!
+INFECTED_HUD2 = [WARNING]^nThe infection has spread!
+MUTATION_HUD = You have mutated to a %s!
+WIN_TXT_ZOMBIES = Zombies win!
+WIN_TXT_SURVIVORS = Survivors win!
+MENU_TITLE1 = Equipments
+MENU_TITLE2 = Primary
+MENU_TITLE3 = Secondary
+MENU_TITLE4 = Select Zombie Class
+MENU_BACK = Back
+MENU_MORE = More
+MENU_EXIT = Exit
+MENU_NEWWEAPONS = New Weapons
+MENU_PREVSETUP = Previous Setup
+MENU_DONTSHOW = Don't show menu again
+MENU_REENABLED = !4[BIO-MENU]!1 Your equip menu has been re-enabled.
+MENU_ALENABLED = !4[BIO-MENU]!1 Your equip menu is already enabled.
+MENU_CMDENABLE = !4[BIO-MENU]!1 Type!3 ^"/guns^"!1 in chat to re-enable your equip menu.
+MENU_CHANGECLASS = !4[BIO-CLASS]!1 You'll mutate into a!3 [%s]!1 next time you're infected.
+CMD_MAXZOMBIES = Max zombies reached.
+CMD_INFECTED = You have infected [%s].
+CMD_TEAMCHANGE = [BIO-TEAM] You are not allowed to change team.
+CMD_GAMENOTSTARTED = Game has not started yet.
+SUICIDEPUNISH_TXT = [Biohazard] You have been punished for committing suicide.
+WELCOME_TXT = !4[BIO-INFO]!1 This server is running !3[TR&UG] !1Zombie Biohazard !3[v#Version#] !1default version.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre    
+			{       font-weight: bold;
+				font-family:Lucida, Sans;
+				color: #006600;
+                                font-size: 15px;
+			}
+
+			body
+			{       
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<img src="https://s10.postimg.org/63lmi2w7t/biohazard.jpg">^n
+			TR&UG Zombie Biohazard v#Version# by Trebor Unaerugnu^n^n^n
+			Follow the instructions below:^n^n^n
+			Type /help in chat to open this motd.^n^n
+			You want to use Zombie Smoker's ability? Just follow the instrunctions below.^n^n
+			Type "bind f +drag" in your console, then press "F" to drag humans.^n^n
+			You want to plant and deplant lasermines? Just follow the instructions below:^n^n
+			Type "bind v +setlaser" in your console, then hold "V" on the walls to set lasermines.^n^n
+			Type "bind c +dellaser" in your console, then hold "C" on your laser to take it back.^n^n
+			Enjoy the game.^n
+		</pre>
+	</body>
+</html>
+:

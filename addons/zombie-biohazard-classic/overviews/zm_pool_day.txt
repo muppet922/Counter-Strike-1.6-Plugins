@@ -1,0 +1,14 @@
+//overview description file for zm_pool_day.bsp
+
+global
+{
+	ZOOM	3.84
+	ORIGIN	-128          512 	   -122
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/zm_pool_day.tga"
+	HEIGHT	-737
+} 

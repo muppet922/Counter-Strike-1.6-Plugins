@@ -1,0 +1,223 @@
+hlcsg v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlcsg -----
+Command line: C:\Users\Josh\DOWNLO~1\ZHLT25~1\hlcsg.exe "C:\Program Files (x86)\Steam\steamapps\videnfra_dwx\condition zero\czero\maps\zm_city_final"
+Entering C:\Program Files (x86)\Steam\steamapps\videnfra_dwx\condition zero\czero\maps\zm_city_final.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       4 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.20 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (0.62 seconds)
+
+Using Wadfile: \users\josh\desktop\cs_dust.wad
+ - Contains 0 used textures, 0.00 percent of map (28 textures in wad)
+Using Wadfile: \users\josh\desktop\halflife.wad
+ - Contains 69 used textures, 84.15 percent of map (3116 textures in wad)
+Using Wadfile: \users\josh\desktop\cstrike.wad
+ - Contains 6 used textures, 7.32 percent of map (123 textures in wad)
+Using Wadfile: \users\josh\desktop\cs_assault.wad
+ - Contains 7 used textures, 8.54 percent of map (22 textures in wad)
+
+added 7 additional animating textures.
+Texture usage is at 1.06 mb (of 4.00 mb MAX)
+1.12 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlbsp -----
+Command line: C:\Users\Josh\DOWNLO~1\ZHLT25~1\hlbsp.exe "C:\Program Files (x86)\Steam\steamapps\videnfra_dwx\condition zero\czero\maps\zm_city_final"
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 4096)
+
+
+BSP generation successful, writing portal file 'C:\Program Files (x86)\Steam\steamapps\videnfra_dwx\condition zero\czero\maps\zm_city_final.prt'
+1.54 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlvis -----
+Command line: C:\Users\Josh\DOWNLO~1\ZHLT25~1\hlvis.exe "C:\Program Files (x86)\Steam\steamapps\videnfra_dwx\condition zero\czero\maps\zm_city_final"
+1501 portalleafs
+4900 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       4 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [     off ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (0.74 seconds)
+LeafThread:
+ (54.46 seconds)
+average leafs visible: 266
+g_visdatasize:166090  compressed from 282188
+55.27 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v2.5.3 rel Custom Build 1.7 (Dec  9 2002)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (merlinis@bigpond.net.au)
+-----  BEGIN  hlrad -----
+Command line: C:\Users\Josh\DOWNLO~1\ZHLT25~1\hlrad.exe "C:\Program Files (x86)\Steam\steamapps\videnfra_dwx\condition zero\czero\maps\zm_city_final"
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 4 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[               off ] [               off ]
+bounces              [                 1 ] [                 1 ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           255.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [ 1.000 1.000 1.000 ] [ 1.000 1.000 1.000 ]
+global gamma         [ 0.500 0.500 0.500 ] [ 0.500 0.500 0.500 ]
+global light scale   [             1.000 ] [             1.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+softlight hack       [   0.0 0.0 0.0 0.0 ] [   0.0 0.0 0.0 0.0 ]
+diffuse hack         [                on ] [                on ]
+spotlight points     [                on ] [                on ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+
+
+6685 faces
+Create Patches : 32678 base patches
+0 opaque faces
+353598 square feet [50918168.00 square inches]
+13 direct lights
+
+BuildFacelights:
+ (6.09 seconds)
+visibility matrix   :  63.7 megs
+BuildVisLeafs:
+ (10.46 seconds)
+MakeScales:
+ (8.06 seconds)
+SwapTransfers:
+ (1.47 seconds)
+Transfer Lists :    24331494 :   24.33M transfers
+       Indices :    14538832 :   13.87M bytes
+          Data :    97325976 :   92.82M bytes
+GatherLight:
+ (0.57 seconds)
+FinalLightFace:
+ (0.48 seconds)
+27.61 seconds elapsed
+
+-----   END   hlrad -----
+
+
+

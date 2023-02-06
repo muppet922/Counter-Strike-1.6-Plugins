@@ -1,0 +1,14 @@
+// overview description file for zm_meat_industry_b2.bsp
+
+global 
+{
+	ZOOM	2.14
+	ORIGIN	423.06	-1230.49	-1018
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_meat_industry_b2.bmp"
+	HEIGHT	-1018
+}

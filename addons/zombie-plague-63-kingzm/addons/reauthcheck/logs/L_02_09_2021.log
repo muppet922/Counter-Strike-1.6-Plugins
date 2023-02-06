@@ -1,0 +1,5 @@
+L 09/02/2021 - 11:47:42: Log file started (file '/L_02_09_2021.log') (version '0.1.6')
+L 09/02/2021 - 11:47:42: [Detect XFake] -> Name [Hacker] | Proto [48] | Auth [RevEmu] | IP [39.96.175.55] | Port [58747] | SteamID [STEAM_1:0:2883779] | Build [6153]
+L 09/02/2021 - 11:48:39: [Detect XFake] -> Name [[le-on]] | Proto [48] | Auth [AVSMP] | IP [178.62.79.49] | Port [41291] | SteamID [STEAM_3:0:1201421308] | Build [6153]
+L 09/02/2021 - 11:48:47: [Idle Timeout (1)] -> Name [T0f|3A] | Proto [48] | Auth [RevEmu] | IP [138.3.211.119] | Port [48582] | SteamID [STEAM_2:1:1397077431] | Build [0]
+L 09/02/2021 - 11:48:55: [Idle Timeout (5)] -> Name [Sonny] | Proto [48] | Auth [AVSMP] | IP [178.62.79.49] | Port [54855] | SteamID [STEAM_3:0:1846345969] | Build [6153]

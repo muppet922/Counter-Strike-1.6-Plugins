@@ -1,0 +1,51 @@
+In plugins-bio.ini, pluginurile trebuie sa le treci in urmatoarea ordine:
+bio_smoker2.amxx
+bio_shop_trebor.amxx debug
+- lasa debug dupa shop, in caz ca vor aparea erori sa le elimini
+
+Gloantele din shop-ul oamenilor le poti cumpara doar pentru arma primara pe care o detii
+(nu se adauga gloante si la pistoale), daca nu ai o astfel de arma, nu poti cumpara gloante.
+Poti cumpara gloantele daca: ai bani necesari, ai o arma primara
+Nu poti cumpara gloante daca: nu ai bani necesari, nu ai o arma primara, ai doar pistol si grenade.
+
+De exemplu: sa zicem ca ai m4a1, ai cumparat gloante, dupa reload numarul gloantelor vor fi acelasi (40),
+dar daca arunci arma din mana si iti iei alta arma de pe jos (sa zicem ak47) vei avea numarul default de
+gloante (30) deoarece tu ai cumparat pentru arma m4a1.
+Daca ai aruncat arma la care ai cumparat goante si apoi o arunci, dupa ce o iei de pe jos, gloantele vor ramane
+la arma.
+
+La shop-ul zombilor, hook-ul se poate cumpara doar daca clasa ta este zombie smoker.
+Nu poti cumpara hook daca: nu ai banii necesari sau daca l-ai cumparat deja (1 hook pe runda)
+
+Deschizi sma la shop si inainte de public plugin_init() o sa gasesti niste linii pe care le poti modifica. Acestea:
+
+
+// Costul itemelor din shop-ul oamenilor (in $)
+new const SHOP_HUMANS[] = 
+{
+	200		// COSTUL MUNITIEI
+}
+
+// Costul itemelor din shop-ul zombilor (in $)
+new const SHOP_ZOMBIES[] = 
+{
+	300		// COSTUL HOOK-ului
+}
+
+new const TAG[] = "[Biohazard]";	// TAG
+
+
+In cazul in care doresti tu sa continui si sa il termini, ai aici mai jos lista cu ce doream eu sa adaug in shop, tot
+ce calculasem era balansat pentru modul Biohazard, sa nu strice balansul server-ului si atmosfera Biohazard:
+
+Human Shop:
+(Terminat)-Poti cumpara +10 gloante(nu incarcatoare, caci alea sunt unlimited oricum) pentru arma pe care o folosesti. Deci daca folosesti Shotgun spre exemplu, numarul de gloante default este de 8, asa ca runda respectiva in care ai cumparat, vei putea beneficia de 18gloante la Shotgun.
+-Poti cumpara +20 armura cu un cost setabil, spre exemplu 2000$, deci poti cumpara pana la 200, aceasta fiind variabila maxima.
+-Poti cumpara +50 speed, deci in conditiile in care variabila default Speed este de 260 la Human, vei avea apoi 310.
+-Poti cumpara setul de NapalmNade, FrostNade si LightNade, mai pe scurt, in cazul in care consumi pe cele de baza, le poti achizitiona din nou pe durata rundei.
+
+
+Zombie Shop:
+(Terminat)-Poti cumpara +1Drag pentru Zombie Smoker, asta in cazul in care folosesti clasa respectiva si ai epuizat toate dragurile in runda curenta.
+-Poti cumpara Antidote, in cazul in care esti Zombie si doresti sa redevi Human, cumperi acest item si te transformi inapoi in om, primind inapoi armele pe care le foloseai inainte sa devi Zombie.
+-Poti cumpara Revive, in cazul in care esti mort si nu ai rabdare sa astepti, poti cumpara un respawn ca si Zombie, sa poti sa te alaturi restul jucatorilor in viata.

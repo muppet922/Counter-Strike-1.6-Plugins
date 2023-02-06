@@ -1,0 +1,14 @@
+//overview description file for zm_school.bsp
+
+global
+{
+	ZOOM	2.37
+	ORIGIN	756         12 	     329
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/zm_school.tga"
+	HEIGHT	-63
+} 

@@ -1,0 +1,14 @@
+// overview description file for hg_dragonballsuper.bsp
+
+global 
+{
+ZOOM	0.96
+ORIGIN	-31.50 -86.25 -384.00
+ROTATED	0
+}
+
+layer 
+{
+IMAGE	"overviews/hg_dragonballsuper.bmp"
+HEIGHT	-3073.00
+}

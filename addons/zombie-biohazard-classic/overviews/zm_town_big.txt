@@ -1,0 +1,14 @@
+// overview description file for zm_town_big.bsp
+
+global 
+{
+	ZOOM	1.19
+	ORIGIN	448.00  -576.00  384.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_town_big.bmp"
+	HEIGHT	-320
+}

@@ -1,0 +1,14 @@
+// overview description file for zm_cave_new.bsp
+
+global 
+{
+	ZOOM	2.79
+	ORIGIN	-210.00 135.00	320.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_cave_new.bmp"
+	HEIGHT	-4.00
+}

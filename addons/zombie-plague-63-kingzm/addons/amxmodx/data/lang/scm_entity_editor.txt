@@ -1,0 +1,22 @@
+[en]
+SCM_MENU_SAVE = Save and apply
+SCM_MENU_SET = settings
+SCM_MENU_EDIT = Edit
+SCM_MENU_PREVIOUS = Previous
+SCM_MENU_NEXT = Next
+SCM_MENU_TELE = Teleport to Entity
+SCM_MENU_SPEC = (Spectator only)
+SCM_MENU_TRIGGER = Trigger
+SCM_MENU_USE = use
+SCM_MENU_ATT = Attention
+SCM_MENU_ALL = All changes below will be cached!
+SCM_MENU_DMG = Damage
+SCM_MENU_ENABLED = Enabled
+SCM_MENU_DISABLED = Disabled
+SCM_MENU_IGNORED = Ignored
+SCM_MENU_NOT = Not exist
+SCM_CHAT_SAVED = Saved and applied ^"%s.ini^" settings successfully!
+SCM_CHAT_FAILED = Failed to apply ^"%s.ini^" settings!
+SCM_CHAT_FAIL_SAVE = Failed to save ^"%s.ini^" settings!
+SCM_CHAT_FAIL_APPLY = Failed to save and apply ^"%s.ini^" settings!
+SCM_CHAT_FAIL_CREATE = Failed to create ^"SCM_AbsBoxEntity^" try it again.

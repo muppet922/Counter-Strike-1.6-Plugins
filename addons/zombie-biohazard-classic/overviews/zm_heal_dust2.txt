@@ -1,0 +1,13 @@
+// Overview description file for zm_heal_dust2.bsp
+global
+{
+      ZOOM    1.35
+      ORIGIN    -192.00    48.00    -353.00
+      ROTATED    0
+}
+  
+layer
+{
+      IMAGE    "overviews/zm_heal_dust2.tga"
+      HEIGHT -353.00
+}
