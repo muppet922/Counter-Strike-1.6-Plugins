@@ -1,0 +1,9 @@
+[en]
+WALLCLIMB_YOU_HAVE_ALREADY = You have already Wall Climb.
+WALLCLIMB_NOT_ENOUGH_MONEY = You do not have enough money to buy Wall Climb.
+WALLCLIMB_BOUGHT = You have bought WallClimb.
+
+[tr]
+WALLCLIMB_YOU_HAVE_ALREADY = Zaten duvara tirmanabiliyorsun.
+WALLCLIMB_NOT_ENOUGH_MONEY = Yeterli paran yok.
+WALLCLIMB_BOUGHT = Artik duvara tirmanabilirsin.
