@@ -1,0 +1,1 @@
+C4 Timer is an amxmodx plugin that changes the bomb timer to something you want. Easy to customize.

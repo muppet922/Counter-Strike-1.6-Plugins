@@ -1,0 +1,116 @@
+[en] -- OciXCrom
+AGROUPS_NO_ACCESS = You are not allowed to view the groups.
+AGROUPS_MENU_TITLE = \d-= \rAdmin Groups \d=-\n\n\d> \wName: \y%s\n\d> \wGroup: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rAdmin Groups \d=-\n\n\d> \wGroup: \y%s\n\d> \wUsers: \y%i online\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i online\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i online\r]
+AGROUPS_NO_USERS = \dNo users online
+
+[mk] -- OciXCrom
+AGROUPS_NO_ACCESS = Nemash pravo da gi gledash grupite.
+AGROUPS_MENU_TITLE = \d-= \rAdmin Grupi \d=-\n\n\d> \wIme: \y%s\n\d> \wGrupa: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rAdmin Grupi \d=-\n\n\d> \wGrupa: \y%s\n\d> \wIgrachi: \y%i na linija\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i na linija\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i na linija\r]
+AGROUPS_NO_USERS = \dNema igrachi na linija
+
+[bg] -- OciXCrom
+AGROUPS_NO_ACCESS = Nqmash pravo da preglejdash grupite.
+AGROUPS_MENU_TITLE = \d-= \rAdmin Grupi \d=-\n\n\d> \wIme: \y%s\n\d> \wGrupa: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rAdmin Grupi \d=-\n\n\d> \wGrupa: \y%s\n\d> \wIgrachi: \y%i na liniq\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i na liniq\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i na liniq\r]
+AGROUPS_NO_USERS = \dNqma igrachi na liniq
+
+[sr] -- OciXCrom
+AGROUPS_NO_ACCESS = Nije vam dozvoljeno da vidite grupe.
+AGROUPS_MENU_TITLE = \d-= \rAdmin Grupe \d=-\n\n\d> \wIme: \y%s\n\d> \wGrupa: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rAdmin Grupe \d=-\n\n\d> \wGrupa: \y%s\n\d> \wIgrachi: \y%i onlajn\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i onlajn\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i onlajn\r]
+AGROUPS_NO_USERS = \dNema igrachi onlajn
+
+[bp] -- EFFx
+AGROUPS_NO_ACCESS = Voce nao tem permissao pra ver os grupos.
+AGROUPS_MENU_TITLE = \d-= \rAdmin Groups \d=-\n\n\d> \wNome: \y%s\n\d> \wGrupo: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rAdmin Groups \d=-\n\n\d> \wGrupo: \y%s\n\d> \wMembros: \y%i online\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i online\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i online\r]
+AGROUPS_NO_USERS = \dSem membros online
+
+[es] -- ACM1PT
+AGROUPS_NO_ACCESS = No tienes permiso para ver los grupos.
+AGROUPS_MENU_TITLE = \d-= \rGrupo de admins \d=-\n\n\d> \wNombre: \y%s\n\d> \wGrupo: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rGrupo de admins \d=-\n\n\d> \wGrupo: \y%s\n\d> \wUsuarios: \y%i online\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i online\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i online\r]
+AGROUPS_NO_USERS = \dNo hay usuarios online
+
+[lt] -- Adomaz1
+AGROUPS_NO_ACCESS = Jūs neturite teisių peržiūrėti grupes.
+AGROUPS_MENU_TITLE = \d-= \rAdministratorių grupės \d=-\n\n\d> \wVardas: \y%s\n\d> \wGrupė: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rAdministratorių grupės \d=-\n\n\d> \wGrupė: \y%s\n\d> \wVartotojai: \y%i prisijungęs(-ę)\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i prisijungęs(-ę)\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i prisijungęs(-ę)\r]
+AGROUPS_NO_USERS = \dNėra prisijungusių
+
+[hu] -- norbee.16
+AGROUPS_NO_ACCESS = Nincs engedelyed a csoportok megtekintesehez.
+AGROUPS_MENU_TITLE = \d-= \rAdmin Csoportok \d=-\n\n\d> \wNev: \y%s\n\d> \wCsoport: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rAdmin Csoportok \d=-\n\n\d> \wCsoport: \y%s\n\d> \wJatekosok: \y%i elerheto\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i elerheto\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i elerheto\r]
+AGROUPS_NO_USERS = \dNincsenek elerheto jatekosok
+
+[de] -- Godofwar
+AGROUPS_NO_ACCESS = Du hast keine Berechtigung die Gruppe aufzurufen.
+AGROUPS_MENU_TITLE = \d-= \rAdmin Gruppe \d=-\n\n\d> \wName: \y%s\n\d> \wGruppe: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rAdmin Gruppe \d=-\n\n\d> \wGruppe: \y%s\n\d> \wBenutzer: \y%i online\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i online\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i online\r]
+AGROUPS_NO_USERS = \dKein Benutzer online
+
+[fr] -- yas17sin
+AGROUPS_NO_ACCESS = Vous n'êtes pas autorisé à afficher les groupes.
+AGROUPS_MENU_TITLE = \d-= \rGroupes d'administrateurs \d=-\n\n\d> \wNom: \y%s\n\d> \wGroupe: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rGroupes d'administrateurs \d=-\n\n\d> \wGroupe: \y%s\n\d> \wUtilisateurs: \y%i En ligne\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i En ligne\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i hors ligne\r]
+AGROUPS_NO_USERS = \dAucun utilisateur en ligne
+
+[sk] -- Belo95135
+AGROUPS_NO_ACCESS = Nemas dostatocne opravnenia zobrazit skupiny!
+AGROUPS_MENU_TITLE = \d-= \rAdmin skupiny \d=-\n\n\d> \wMeno: \y%s\n\d> \wSkupina: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rAdmin skupiny \d=-\n\n\d> \wSkupina: \y%s\n\d> \wClenovia: \y%i online\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i online\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i online\r]
+AGROUPS_NO_USERS = \dNikto z clenov nie je online
+
+[cn] -- TheSpaniard
+AGROUPS_NO_ACCESS = &#24744;无权查看该组。
+AGROUPS_MENU_TITLE = \d-= \r&#31649;理组 \d=-\n\n\d> \w名称: \y%s\n\d> \w组: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \r&#31649;理组 \d=-\n\n\d> \w名称: \y%s\n\d> \w用户: \y%i 线上\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i &#32447;上\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i &#32447;上\r]
+AGROUPS_NO_USERS = \d&#27809;有用户在线
+
+[ro] -- tom .
+AGROUPS_NO_ACCESS = Nu esti autorizat sa vezi acest grup.
+AGROUPS_MENU_TITLE = \d-= \rGrad admin \d=-\n\n\d> \wNume: \y%s\n\d> \wGrad: \y%s\n\d- - - - - - - - - - \r
+AGROUPS_MENU2_TITLE = \d-= \rGrad admin \d=-\n\n\d> \wGrad: \y%s\n\d> \wAdmini: \y%i activi\n\d- - - - - - - - - - \r
+AGROUPS_NO_GROUP = \dn/a
+AGROUPS_DISPLAY_ONLINE = %s \r[\y%i activi\r]
+AGROUPS_DISPLAY_OFFLINE = \d%s \r[\d%i activi\r]
+AGROUPS_NO_USERS = \dNu sunt admini activi.

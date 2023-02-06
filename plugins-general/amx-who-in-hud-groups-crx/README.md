@@ -1,0 +1,1 @@
+Admingroups is an amxmodx plugins wich shows players what admins/vips are online.

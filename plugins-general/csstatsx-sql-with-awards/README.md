@@ -1,0 +1,1 @@
+CSstatsX SQL is an independent system of statistics for your CS 1.6 server. Calculates amount of time spent by the player on the server, accuracy, efficiency, total damage, number of deaths etc. and has customizable awards.
