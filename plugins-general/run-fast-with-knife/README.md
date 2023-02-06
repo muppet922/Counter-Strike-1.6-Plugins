@@ -1,0 +1,1 @@
+This amxmodx plugins makes players that hold knife in hand to run faster.
