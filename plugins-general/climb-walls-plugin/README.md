@@ -12,7 +12,7 @@ This amxmodx plugin allows players to climb walls.
 
 `climb_mode "0"`
 
-// Turn purchase of WallClimb off/on
+// Turn purchase of WallClimb off/on [1 - on | 0 - off]
 
 `climb_buy "1"`
 
