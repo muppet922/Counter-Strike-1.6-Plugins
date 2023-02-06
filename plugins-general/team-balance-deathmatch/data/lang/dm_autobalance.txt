@@ -1,0 +1,31 @@
+[en]
+DMTB_CVAR_MAX_DIFF          = Maximum allowable difference between teams
+DMTB_CVAR_MODE              = Transfer mode^n0 - kill, then respawn^n1 - simple player's respawn^n2 - teleport to spawnspot
+DMTB_CVAR_TIME              = Time before switching a player for another team
+DMTB_CVAR_ADMIN_FLAG        = A flag that defines the admin
+DMTB_CVAR_BOTS              = Do you have to consider the bots when balancing?
+DMTB_CVAR_ADMIN_MODE        = Admins balancing mode.^n0 - switch like normal players.^n1 - do not switch team.
+DMTB_CVAR_MAX_DIFF_ADMINS   = Maximum allowable difference between the number of admins in the commands
+DMTB_CVAR_SKIP_SUICIDE      = Do I skip player recalculation in case of player suicide?
+DMTB_CVAR_SKIP_DISCONNECT   = Do I skip player recalculation in case of player disconnect?
+DMTB_DHUD_WILL_BALANCED     = You will be switched to opposite team via %.0f sec.
+DMTB_DHUD_BALANCED_CT       = You've been switched to team ct
+DMTB_DHUD_BALANCED_TE       = You've been switched to team terrorists
+DMTB_CHAT_BALANCED_CT       = ^4* ^3%n ^1has been moved to ^3team ct^1.
+DMTB_CHAT_BALANCED_TE       = ^4* ^3%n ^1has been moved to ^3team terrorists^1.
+
+[ru]
+DMTB_CVAR_MAX_DIFF          = Максимально допустимая разница между командами
+DMTB_CVAR_MODE              = Режим работы переноса^n0 - убить, затем возродить^n1 - простой респавн игрока^n2 - телепорт на спавн
+DMTB_CVAR_TIME              = Время перед перемещением игрока за другую команду
+DMTB_CVAR_ADMIN_FLAG        = Флаг, определяющий админа
+DMTB_CVAR_BOTS              = Учитывать ли ботов при балансе?
+DMTB_CVAR_ADMIN_MODE        = Режим балансировки админов.^n0 - переводить вместе со всеми^n1 - иммунитет от баланса
+DMTB_CVAR_MAX_DIFF_ADMINS   = Максимально допустимая разница между количеством админов в командах
+DMTB_CVAR_SKIP_SUICIDE      = Пропускать ли пересчёт игроков при суициде игрока?
+DMTB_CVAR_SKIP_DISCONNECT   = Пропускать ли пересчёт игроков при выходе игрока из игры?
+DMTB_DHUD_WILL_BALANCED     = Вы будете перемещены за другую команду через %.0f сек.
+DMTB_DHUD_BALANCED_CT       = Вы были перемещены за контр-террористов
+DMTB_DHUD_BALANCED_TE       = Вы были перемещены за террористов
+DMTB_CHAT_BALANCED_CT       = ^4* ^3%n ^1был перемещён за ^3контр-террористов^1.
+DMTB_CHAT_BALANCED_TE       = ^4* ^3%n ^1был перемещён за ^3террористов^1.

@@ -1,0 +1,1 @@
+Team Balance Deathmatch is a plugin for DeathMatch (CSDM) servers that balances teams. It is possible to set immunity for admins, config file that contains cvars will be automatically created after installation.
