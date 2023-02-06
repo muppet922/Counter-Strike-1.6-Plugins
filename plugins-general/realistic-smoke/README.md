@@ -1,0 +1,1 @@
+This plugin make smoke grenade more real, the fumes are more dense and players will cough will passing in it + much more.

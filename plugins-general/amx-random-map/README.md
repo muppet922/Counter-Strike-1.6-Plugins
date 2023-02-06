@@ -1,0 +1,1 @@
+This version uses maps.ini and has some new features. It changes the current map with a random one.
