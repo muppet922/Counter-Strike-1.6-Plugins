@@ -1,0 +1,1 @@
+Well, this amxmodx plugin equip standard player models with a mask. 
