@@ -1,0 +1,1 @@
+This amxmodx plugins modify the fall of people and die and the sound, faster or slower.

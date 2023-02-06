@@ -1,0 +1,1 @@
+This amxmodx plugin punish players who teamflash.

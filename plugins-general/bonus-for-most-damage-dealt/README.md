@@ -1,0 +1,1 @@
+This amxmodx plugin offers an award for the player that dealt the most damage in one round.

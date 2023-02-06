@@ -1,0 +1,1 @@
+This plugins does not block sounds that come from radio/grenades only chat messages.

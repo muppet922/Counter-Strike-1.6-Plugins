@@ -1,0 +1,1 @@
+This amxmodx plugins make hostages immortal.

@@ -1,0 +1,1 @@
+This amxmodx plugin shows who flashed you, f them.
