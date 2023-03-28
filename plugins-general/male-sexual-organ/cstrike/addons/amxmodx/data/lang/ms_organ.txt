@@ -1,0 +1,63 @@
+[en]
+MSO_MENU_TITLE = \y[\rMSO\y] \wOutput Menu
+MSO_MENU_ORGAN_ON = Worth
+MSO_MENU_ORGAN_OFF = Not worth
+
+MSO_ST_MENU_TITLE = \y[\rMSO\y] \wSettings for:
+
+MSO_ST_MENU_INFO1 = Size:
+MSO_ST_MENU_ORGAN_MODEL_0 = Small
+MSO_ST_MENU_ORGAN_MODEL_1 = Large
+MSO_ST_MENU_ORGAN_MODEL_2 = Random size
+
+MSO_ST_MENU_INFO2 = Skin:
+MSO_ST_MENU_ORGAN_SKIN_0 = Light
+MSO_ST_MENU_ORGAN_SKIN_1 = Dark
+MSO_ST_MENU_ORGAN_SKIN_2 = Random skin
+
+MSO_ST_MENU_ADDED = Add organ
+MSO_ST_MENU_DELETE = Remove organ
+
+MSO_ST_MENU_SIGN_INFO = Flag:
+MSO_ST_MENU_SIGN_NO = removed
+MSO_ST_MENU_SIGN_YES = saved
+MSO_ST_MENU_SIGN_YES_INFO = to save it again, you need to delete it!
+MSO_ST_MENU_SIGN_NO_INFO = to delete again, you need to save!
+
+MSO_MENU_BACK = Back
+MSO_MENU_NEXT = Next
+MSO_MENU_EXIT = Exit
+
+MSO_MENU_LACK_OF_THE_RIGHT_PLAYERS = ^3[^4MSO^3] ^1There are no necessary ^4players ^1to open the ^3menu^1!
+
+[ru]
+MSO_MENU_TITLE = \y[\rMSO\y] \wВыбор игрока
+MSO_MENU_ORGAN_ON = Стоит
+MSO_MENU_ORGAN_OFF = Не стоит
+
+MSO_ST_MENU_TITLE = \y[\rMSO\y] \wНастройки для:
+
+MSO_ST_MENU_INFO1 = Размер:
+MSO_ST_MENU_ORGAN_MODEL_0 = Маленький
+MSO_ST_MENU_ORGAN_MODEL_1 = Большой
+MSO_ST_MENU_ORGAN_MODEL_2 = Рандом размер
+
+MSO_ST_MENU_INFO2 = Скин:
+MSO_ST_MENU_ORGAN_SKIN_0 = Светлый
+MSO_ST_MENU_ORGAN_SKIN_1 = Темный
+MSO_ST_MENU_ORGAN_SKIN_2 = Рандом скин
+
+MSO_ST_MENU_ADDED = Добавить орган
+MSO_ST_MENU_DELETE = Убрать орган
+
+MSO_ST_MENU_SIGN_INFO = Признак:
+MSO_ST_MENU_SIGN_NO = удалено
+MSO_ST_MENU_SIGN_YES = сохранено
+MSO_ST_MENU_SIGN_YES_INFO = что-бы сохранить повторно, нужно удалить!
+MSO_ST_MENU_SIGN_NO_INFO = что-бы удалить повторно, нужно сохранить!
+
+MSO_MENU_BACK = Назад
+MSO_MENU_NEXT = Далее
+MSO_MENU_EXIT = Выход
+
+MSO_MENU_LACK_OF_THE_RIGHT_PLAYERS = ^3[^4MSO^3] ^1Нету нужных ^4игроков ^1для открытия ^3меню^1!

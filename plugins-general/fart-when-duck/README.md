@@ -1,0 +1,1 @@
+> You press duck, and the plugin will play a fart sound.
