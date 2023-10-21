@@ -1,0 +1,1 @@
+# With this plugin, you can write various greeting messages. (it's the fixed version, no fmt runtime error)
